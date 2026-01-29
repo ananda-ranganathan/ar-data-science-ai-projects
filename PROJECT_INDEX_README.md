@@ -1,0 +1,4 @@
+- DA → 3 projects
+- ML → 2 projects
+- Power BI → 2 dashboards
+- Best project links

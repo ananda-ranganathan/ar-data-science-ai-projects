@@ -1,0 +1,1771 @@
+﻿{
+    "version": "1.1.0",
+    "events": [
+        {
+            "name": "User Action",
+            "component": "Report Canvas",
+            "start": "2025-12-12T06:53:58.743Z",
+            "id": "b1a63515c85ba0651952",
+            "metrics": {
+                "sourceLabel": "UserAction_StartedMonitoring"
+            }
+        },
+        {
+            "name": "User Action",
+            "component": "Report Canvas",
+            "start": "2025-12-12T06:54:01.550Z",
+            "id": "60fee72bc7deb04004a4",
+            "metrics": {
+                "sourceLabel": "UserAction_Refresh"
+            }
+        },
+        {
+            "name": "Visual Container Lifecycle",
+            "start": "2025-12-12T06:54:01.562Z",
+            "end": "2025-12-12T06:54:01.696Z",
+            "id": "93fae55daa50141f921e-9186c2ba17d99d9c882e",
+            "metrics": {
+                "status": 1,
+                "visualTitle": "Left Nav Bar BG",
+                "visualId": "93fae55daa50141f921e",
+                "visualType": "shape",
+                "initialLoad": false
+            }
+        },
+        {
+            "name": "Query",
+            "start": "2025-12-12T06:54:01.564Z",
+            "end": "2025-12-12T06:54:01.586Z",
+            "id": "5aae3c91-9b6c-45c2-9a6e-7d4c3fcfacc8",
+            "parentId": "93fae55daa50141f921e-9186c2ba17d99d9c882e"
+        },
+        {
+            "name": "Render",
+            "start": "2025-12-12T06:54:01.586Z",
+            "end": "2025-12-12T06:54:01.696Z",
+            "id": "195f4970-3352-4f4c-835a-12b6b2191ea9",
+            "parentId": "93fae55daa50141f921e-9186c2ba17d99d9c882e"
+        },
+        {
+            "name": "Data View Transform",
+            "start": "2025-12-12T06:54:01.663Z",
+            "end": "2025-12-12T06:54:01.664Z",
+            "id": "294f7c4d-1499-4f9d-a61a-69a5e87244cc",
+            "parentId": "195f4970-3352-4f4c-835a-12b6b2191ea9"
+        },
+        {
+            "name": "Visual Update Async",
+            "start": "2025-12-12T06:54:01.664Z",
+            "end": "2025-12-12T06:54:01.696Z",
+            "id": "86de54e2-9f16-453f-9e4b-a194bdef2a38",
+            "parentId": "195f4970-3352-4f4c-835a-12b6b2191ea9"
+        },
+        {
+            "name": "Visual Update",
+            "start": "2025-12-12T06:54:01.664Z",
+            "end": "2025-12-12T06:54:01.664Z",
+            "id": "c8e94c9e-c1df-4486-bdc1-3ec5c7cc30e9",
+            "parentId": "195f4970-3352-4f4c-835a-12b6b2191ea9"
+        },
+        {
+            "name": "Visual Container Lifecycle",
+            "start": "2025-12-12T06:54:01.565Z",
+            "end": "2025-12-12T06:54:01.698Z",
+            "id": "4f85550693696115c4b3-d82221103f1319466a8e",
+            "metrics": {
+                "status": 1,
+                "visualTitle": "Image",
+                "visualId": "4f85550693696115c4b3",
+                "visualType": "image",
+                "initialLoad": false
+            }
+        },
+        {
+            "name": "Query",
+            "start": "2025-12-12T06:54:01.565Z",
+            "end": "2025-12-12T06:54:01.626Z",
+            "id": "7142a425-f423-43ec-8398-15c73bdb13d2",
+            "parentId": "4f85550693696115c4b3-d82221103f1319466a8e"
+        },
+        {
+            "name": "Visual Container Resource Load",
+            "start": "2025-12-12T06:54:01.565Z",
+            "end": "2025-12-12T06:54:01.592Z",
+            "id": "b8cc0281-bf3c-4a24-8b20-4543c3778dac",
+            "parentId": "4f85550693696115c4b3-d82221103f1319466a8e"
+        },
+        {
+            "name": "Render",
+            "start": "2025-12-12T06:54:01.626Z",
+            "end": "2025-12-12T06:54:01.697Z",
+            "id": "707bbf06-0bdd-471c-9e86-d1f32afff294",
+            "parentId": "4f85550693696115c4b3-d82221103f1319466a8e"
+        },
+        {
+            "name": "Data View Transform",
+            "start": "2025-12-12T06:54:01.665Z",
+            "end": "2025-12-12T06:54:01.665Z",
+            "id": "78b552c4-9f85-4f3e-8c8e-be0c6f38aa3b",
+            "parentId": "707bbf06-0bdd-471c-9e86-d1f32afff294"
+        },
+        {
+            "name": "Visual Update Async",
+            "start": "2025-12-12T06:54:01.665Z",
+            "end": "2025-12-12T06:54:01.696Z",
+            "id": "aa22746a-2dd8-4592-8d79-2fcbdd9bf5cf",
+            "parentId": "707bbf06-0bdd-471c-9e86-d1f32afff294"
+        },
+        {
+            "name": "Visual Update",
+            "start": "2025-12-12T06:54:01.665Z",
+            "end": "2025-12-12T06:54:01.665Z",
+            "id": "2a6b78fe-8256-4db8-8482-d93992a702e9",
+            "parentId": "707bbf06-0bdd-471c-9e86-d1f32afff294"
+        },
+        {
+            "name": "Visual Container Lifecycle",
+            "start": "2025-12-12T06:54:01.566Z",
+            "end": "2025-12-12T06:54:01.928Z",
+            "id": "a31790e368223c282705-0871682a897290fd7d30",
+            "metrics": {
+                "status": 1,
+                "visualTitle": "Card",
+                "visualId": "a31790e368223c282705",
+                "visualType": "card",
+                "initialLoad": false
+            }
+        },
+        {
+            "name": "Resolve Parameters",
+            "start": "2025-12-12T06:54:01.566Z",
+            "end": "2025-12-12T06:54:01.587Z",
+            "id": "593260de-3c16-4c2e-b76a-6e09a14fb436",
+            "parentId": "a31790e368223c282705-0871682a897290fd7d30"
+        },
+        {
+            "name": "Query",
+            "start": "2025-12-12T06:54:01.587Z",
+            "end": "2025-12-12T06:54:01.889Z",
+            "id": "5053a122-2f06-4fae-844d-a727538ff5f1",
+            "parentId": "a31790e368223c282705-0871682a897290fd7d30"
+        },
+        {
+            "name": "Render",
+            "start": "2025-12-12T06:54:01.889Z",
+            "end": "2025-12-12T06:54:01.928Z",
+            "id": "e6ef6ee4-d104-448d-81e0-2eaf941c9f50",
+            "parentId": "a31790e368223c282705-0871682a897290fd7d30"
+        },
+        {
+            "name": "Data View Transform",
+            "start": "2025-12-12T06:54:01.919Z",
+            "end": "2025-12-12T06:54:01.920Z",
+            "id": "103452db-bcc8-45e1-8f15-d7789cedf909",
+            "parentId": "e6ef6ee4-d104-448d-81e0-2eaf941c9f50"
+        },
+        {
+            "name": "Execute Semantic Query",
+            "component": "DSE",
+            "start": "2025-12-12T06:54:01.745Z",
+            "end": "2025-12-12T06:54:01.810Z",
+            "id": "3062392d-d91c-45f0-a621-7d50b6a778ac",
+            "parentId": "5053a122-2f06-4fae-844d-a727538ff5f1"
+        },
+        {
+            "name": "Query Generation",
+            "start": "2025-12-12T06:54:01.595Z",
+            "end": "2025-12-12T06:54:01.596Z",
+            "id": "0b3f93e4-faab-41e2-96e6-28cbf21cc964",
+            "parentId": "5053a122-2f06-4fae-844d-a727538ff5f1"
+        },
+        {
+            "name": "Query Pending",
+            "start": "2025-12-12T06:54:01.736Z",
+            "end": "2025-12-12T06:54:01.739Z",
+            "id": "764a2390-d4d3-49b1-bdb5-a84bf0e9944b",
+            "parentId": "5053a122-2f06-4fae-844d-a727538ff5f1"
+        },
+        {
+            "name": "Parse Query Result",
+            "start": "2025-12-12T06:54:01.888Z",
+            "end": "2025-12-12T06:54:01.888Z",
+            "id": "95f02e09-3894-4e58-9956-4bfba1add26d",
+            "parentId": "5053a122-2f06-4fae-844d-a727538ff5f1"
+        },
+        {
+            "name": "Execute DAX Query",
+            "component": "DSE",
+            "start": "2025-12-12T06:54:01.770Z",
+            "end": "2025-12-12T06:54:01.809Z",
+            "id": "8e103da8-590b-462f-8d84-251050c953ee",
+            "parentId": "3062392d-d91c-45f0-a621-7d50b6a778ac",
+            "metrics": {
+                "QueryText": "EVALUATE\r\n\tROW(\r\n\t\"Total_Bike_Sales\", 'Measure_Table (Sales)'[Total Bike Sales]\r\n)",
+                "RowCount": 1
+            }
+        },
+        {
+            "name": "Execute Query",
+            "component": "AS",
+            "start": "2025-12-12T06:54:01.800Z",
+            "end": "2025-12-12T06:54:01.810Z",
+            "id": "D9D46201-8454-4E06-B8E1-54239AD489A6",
+            "parentId": "8e103da8-590b-462f-8d84-251050c953ee"
+        },
+        {
+            "name": "Serialize Rowset",
+            "component": "AS",
+            "start": "2025-12-12T06:54:01.810Z",
+            "end": "2025-12-12T06:54:01.810Z",
+            "id": "7986FD46-8DE0-40E7-9D99-B32E6B350CC6",
+            "parentId": "D9D46201-8454-4E06-B8E1-54239AD489A6"
+        },
+        {
+            "name": "Visual Container Lifecycle",
+            "start": "2025-12-12T06:54:01.567Z",
+            "end": "2025-12-12T06:54:01.932Z",
+            "id": "39cc0d33f6b19545f4c8-6211ef66ecf127f10e3b",
+            "metrics": {
+                "status": 1,
+                "visualTitle": "Card",
+                "visualId": "39cc0d33f6b19545f4c8",
+                "visualType": "card",
+                "initialLoad": false
+            }
+        },
+        {
+            "name": "Resolve Parameters",
+            "start": "2025-12-12T06:54:01.567Z",
+            "end": "2025-12-12T06:54:01.587Z",
+            "id": "2945f8a7-aa59-4fae-bda5-1dc62a18bfc6",
+            "parentId": "39cc0d33f6b19545f4c8-6211ef66ecf127f10e3b"
+        },
+        {
+            "name": "Query",
+            "start": "2025-12-12T06:54:01.587Z",
+            "end": "2025-12-12T06:54:01.886Z",
+            "id": "c6cf67c5-8cf0-4da2-a385-74b7a086cd33",
+            "parentId": "39cc0d33f6b19545f4c8-6211ef66ecf127f10e3b"
+        },
+        {
+            "name": "Render",
+            "start": "2025-12-12T06:54:01.886Z",
+            "end": "2025-12-12T06:54:01.932Z",
+            "id": "a316a972-e8a6-481d-9354-48197595ce2d",
+            "parentId": "39cc0d33f6b19545f4c8-6211ef66ecf127f10e3b"
+        },
+        {
+            "name": "Data View Transform",
+            "start": "2025-12-12T06:54:01.930Z",
+            "end": "2025-12-12T06:54:01.931Z",
+            "id": "55a996e1-8348-4bcc-999d-85a9e379b522",
+            "parentId": "a316a972-e8a6-481d-9354-48197595ce2d"
+        },
+        {
+            "name": "Execute Semantic Query",
+            "component": "DSE",
+            "start": "2025-12-12T06:54:01.745Z",
+            "end": "2025-12-12T06:54:01.808Z",
+            "id": "55532db6-1ce9-471b-9092-8c79f0a801b4",
+            "parentId": "c6cf67c5-8cf0-4da2-a385-74b7a086cd33"
+        },
+        {
+            "name": "Query Generation",
+            "start": "2025-12-12T06:54:01.597Z",
+            "end": "2025-12-12T06:54:01.597Z",
+            "id": "b14693f0-e2ef-4ca7-888d-b0ce4337e321",
+            "parentId": "c6cf67c5-8cf0-4da2-a385-74b7a086cd33"
+        },
+        {
+            "name": "Query Pending",
+            "start": "2025-12-12T06:54:01.737Z",
+            "end": "2025-12-12T06:54:01.740Z",
+            "id": "c95356ce-aee8-454f-9f3d-e16b5c653a57",
+            "parentId": "c6cf67c5-8cf0-4da2-a385-74b7a086cd33"
+        },
+        {
+            "name": "Parse Query Result",
+            "start": "2025-12-12T06:54:01.885Z",
+            "end": "2025-12-12T06:54:01.886Z",
+            "id": "a895515c-b5a2-4653-a4bc-33793af3ffa1",
+            "parentId": "c6cf67c5-8cf0-4da2-a385-74b7a086cd33"
+        },
+        {
+            "name": "Execute DAX Query",
+            "component": "DSE",
+            "start": "2025-12-12T06:54:01.770Z",
+            "end": "2025-12-12T06:54:01.805Z",
+            "id": "cf70aa75-6561-4295-9d1b-3c7f46e24b59",
+            "parentId": "55532db6-1ce9-471b-9092-8c79f0a801b4",
+            "metrics": {
+                "QueryText": "EVALUATE\r\n\tROW(\r\n\t\t\"Total_Orders_SalesPerCust\", 'Measure_Table (Sales)'[Total_Orders_SalesPerCust]\r\n\t)",
+                "RowCount": 1
+            }
+        },
+        {
+            "name": "Execute Query",
+            "component": "AS",
+            "start": "2025-12-12T06:54:01.800Z",
+            "end": "2025-12-12T06:54:01.803Z",
+            "id": "33955707-FDDF-430A-992D-8DFA344B883B",
+            "parentId": "cf70aa75-6561-4295-9d1b-3c7f46e24b59"
+        },
+        {
+            "name": "Serialize Rowset",
+            "component": "AS",
+            "start": "2025-12-12T06:54:01.803Z",
+            "end": "2025-12-12T06:54:01.803Z",
+            "id": "3348A0A9-3A62-4196-8648-0298B38FC04F",
+            "parentId": "33955707-FDDF-430A-992D-8DFA344B883B"
+        },
+        {
+            "name": "Visual Container Lifecycle",
+            "start": "2025-12-12T06:54:01.568Z",
+            "end": "2025-12-12T06:54:01.937Z",
+            "id": "0eba124a751eba83b4e9-64098537703237414877",
+            "metrics": {
+                "status": 1,
+                "visualTitle": "Card",
+                "visualId": "0eba124a751eba83b4e9",
+                "visualType": "card",
+                "initialLoad": false
+            }
+        },
+        {
+            "name": "Resolve Parameters",
+            "start": "2025-12-12T06:54:01.568Z",
+            "end": "2025-12-12T06:54:01.587Z",
+            "id": "0ba8947d-6741-430d-a833-30314d9b67d3",
+            "parentId": "0eba124a751eba83b4e9-64098537703237414877"
+        },
+        {
+            "name": "Query",
+            "start": "2025-12-12T06:54:01.587Z",
+            "end": "2025-12-12T06:54:01.892Z",
+            "id": "61bac91e-8db0-41cd-8f2f-dec443414595",
+            "parentId": "0eba124a751eba83b4e9-64098537703237414877"
+        },
+        {
+            "name": "Render",
+            "start": "2025-12-12T06:54:01.891Z",
+            "end": "2025-12-12T06:54:01.937Z",
+            "id": "325caa89-fc26-4c4e-b79b-3e1c124fc51e",
+            "parentId": "0eba124a751eba83b4e9-64098537703237414877"
+        },
+        {
+            "name": "Data View Transform",
+            "start": "2025-12-12T06:54:01.934Z",
+            "end": "2025-12-12T06:54:01.935Z",
+            "id": "e5c0eeae-9724-43c1-a186-0679952f1c72",
+            "parentId": "325caa89-fc26-4c4e-b79b-3e1c124fc51e"
+        },
+        {
+            "name": "Execute Semantic Query",
+            "component": "DSE",
+            "start": "2025-12-12T06:54:01.745Z",
+            "end": "2025-12-12T06:54:01.811Z",
+            "id": "f145681b-1d5d-4d76-a64f-16ef75e58785",
+            "parentId": "61bac91e-8db0-41cd-8f2f-dec443414595"
+        },
+        {
+            "name": "Query Generation",
+            "start": "2025-12-12T06:54:01.598Z",
+            "end": "2025-12-12T06:54:01.598Z",
+            "id": "481f1176-34c4-4214-893c-b43f93e42672",
+            "parentId": "61bac91e-8db0-41cd-8f2f-dec443414595"
+        },
+        {
+            "name": "Query Pending",
+            "start": "2025-12-12T06:54:01.737Z",
+            "end": "2025-12-12T06:54:01.740Z",
+            "id": "36007c88-a47e-4545-b4ed-5706eab4cb47",
+            "parentId": "61bac91e-8db0-41cd-8f2f-dec443414595"
+        },
+        {
+            "name": "Parse Query Result",
+            "start": "2025-12-12T06:54:01.890Z",
+            "end": "2025-12-12T06:54:01.891Z",
+            "id": "9bbe36d0-ebc7-4cca-85a7-7fdd38b6ad6a",
+            "parentId": "61bac91e-8db0-41cd-8f2f-dec443414595"
+        },
+        {
+            "name": "Execute DAX Query",
+            "component": "DSE",
+            "start": "2025-12-12T06:54:01.770Z",
+            "end": "2025-12-12T06:54:01.810Z",
+            "id": "d4a433fe-da91-461d-b214-9c3df4b85d69",
+            "parentId": "f145681b-1d5d-4d76-a64f-16ef75e58785",
+            "metrics": {
+                "QueryText": "EVALUATE\r\n\tROW(\r\n\t\"Total_Cost\", 'Measure_Table (Sales)'[Total Cost]\r\n)",
+                "RowCount": 1
+            }
+        },
+        {
+            "name": "Execute Query",
+            "component": "AS",
+            "start": "2025-12-12T06:54:01.800Z",
+            "end": "2025-12-12T06:54:01.810Z",
+            "id": "8CD8BEC2-8159-483E-9F84-AA2D1CB81048",
+            "parentId": "d4a433fe-da91-461d-b214-9c3df4b85d69"
+        },
+        {
+            "name": "Serialize Rowset",
+            "component": "AS",
+            "start": "2025-12-12T06:54:01.810Z",
+            "end": "2025-12-12T06:54:01.810Z",
+            "id": "ADA1540D-781B-42EE-BF8F-13CA694CC93D",
+            "parentId": "8CD8BEC2-8159-483E-9F84-AA2D1CB81048"
+        },
+        {
+            "name": "Visual Container Lifecycle",
+            "start": "2025-12-12T06:54:01.569Z",
+            "end": "2025-12-12T06:54:01.871Z",
+            "id": "6b080493a768f4889149-815f35d1ebca4f5daa0a",
+            "metrics": {
+                "status": 1,
+                "visualTitle": "Card",
+                "visualId": "6b080493a768f4889149",
+                "visualType": "card",
+                "initialLoad": false
+            }
+        },
+        {
+            "name": "Resolve Parameters",
+            "start": "2025-12-12T06:54:01.569Z",
+            "end": "2025-12-12T06:54:01.587Z",
+            "id": "7d34ca18-81b1-4d4e-a6be-a60ebe367c19",
+            "parentId": "6b080493a768f4889149-815f35d1ebca4f5daa0a"
+        },
+        {
+            "name": "Query",
+            "start": "2025-12-12T06:54:01.587Z",
+            "end": "2025-12-12T06:54:01.864Z",
+            "id": "e27efd40-f1d0-4852-9ebd-0fd3c0766f2d",
+            "parentId": "6b080493a768f4889149-815f35d1ebca4f5daa0a"
+        },
+        {
+            "name": "Render",
+            "start": "2025-12-12T06:54:01.864Z",
+            "end": "2025-12-12T06:54:01.871Z",
+            "id": "67bc8ee9-4e39-40ae-a516-de887b44a405",
+            "parentId": "6b080493a768f4889149-815f35d1ebca4f5daa0a"
+        },
+        {
+            "name": "Data View Transform",
+            "start": "2025-12-12T06:54:01.868Z",
+            "end": "2025-12-12T06:54:01.869Z",
+            "id": "235fe740-2449-4c8b-8dc8-e9dd040617da",
+            "parentId": "67bc8ee9-4e39-40ae-a516-de887b44a405"
+        },
+        {
+            "name": "Execute Semantic Query",
+            "component": "DSE",
+            "start": "2025-12-12T06:54:01.745Z",
+            "end": "2025-12-12T06:54:01.808Z",
+            "id": "97eff881-b1fe-4e6a-9b90-4461e3ef218b",
+            "parentId": "e27efd40-f1d0-4852-9ebd-0fd3c0766f2d"
+        },
+        {
+            "name": "Query Generation",
+            "start": "2025-12-12T06:54:01.599Z",
+            "end": "2025-12-12T06:54:01.599Z",
+            "id": "8087a3b3-8663-4171-8767-12b0b0d14c5f",
+            "parentId": "e27efd40-f1d0-4852-9ebd-0fd3c0766f2d"
+        },
+        {
+            "name": "Query Pending",
+            "start": "2025-12-12T06:54:01.737Z",
+            "end": "2025-12-12T06:54:01.740Z",
+            "id": "df05c022-bf06-4755-ad9e-4b97e184398d",
+            "parentId": "e27efd40-f1d0-4852-9ebd-0fd3c0766f2d"
+        },
+        {
+            "name": "Parse Query Result",
+            "start": "2025-12-12T06:54:01.863Z",
+            "end": "2025-12-12T06:54:01.863Z",
+            "id": "ec17563c-b352-4255-8738-cff2df67df00",
+            "parentId": "e27efd40-f1d0-4852-9ebd-0fd3c0766f2d"
+        },
+        {
+            "name": "Execute DAX Query",
+            "component": "DSE",
+            "start": "2025-12-12T06:54:01.770Z",
+            "end": "2025-12-12T06:54:01.805Z",
+            "id": "0ae87762-5bd2-450b-b0f0-6bc7a9949e20",
+            "parentId": "97eff881-b1fe-4e6a-9b90-4461e3ef218b",
+            "metrics": {
+                "QueryText": "EVALUATE\r\n\tROW(\r\n\t\"v__of_all_Orders\", 'Measure_Table (Sales)'[% of all Orders]\r\n)",
+                "RowCount": 1
+            }
+        },
+        {
+            "name": "Execute Query",
+            "component": "AS",
+            "start": "2025-12-12T06:54:01.800Z",
+            "end": "2025-12-12T06:54:01.803Z",
+            "id": "0E046A5C-DE4D-4F50-A138-69358BEBF9B2",
+            "parentId": "0ae87762-5bd2-450b-b0f0-6bc7a9949e20"
+        },
+        {
+            "name": "Serialize Rowset",
+            "component": "AS",
+            "start": "2025-12-12T06:54:01.803Z",
+            "end": "2025-12-12T06:54:01.803Z",
+            "id": "443EA1C2-E203-4B3B-B799-CB8F342F40E9",
+            "parentId": "0E046A5C-DE4D-4F50-A138-69358BEBF9B2"
+        },
+        {
+            "name": "Visual Container Lifecycle",
+            "start": "2025-12-12T06:54:01.569Z",
+            "end": "2025-12-12T06:54:01.698Z",
+            "id": "26a6ff7fd92628d45d94-4ffbd8cd95df9288a2b5",
+            "metrics": {
+                "status": 1,
+                "visualTitle": "Shape",
+                "visualId": "26a6ff7fd92628d45d94",
+                "visualType": "shape",
+                "initialLoad": false
+            }
+        },
+        {
+            "name": "Query",
+            "start": "2025-12-12T06:54:01.570Z",
+            "end": "2025-12-12T06:54:01.588Z",
+            "id": "0f3e2888-ddfe-4215-945b-b1bd02dd1c01",
+            "parentId": "26a6ff7fd92628d45d94-4ffbd8cd95df9288a2b5"
+        },
+        {
+            "name": "Render",
+            "start": "2025-12-12T06:54:01.588Z",
+            "end": "2025-12-12T06:54:01.698Z",
+            "id": "06ad23a8-1076-445f-a5bd-b6ce67d79dfc",
+            "parentId": "26a6ff7fd92628d45d94-4ffbd8cd95df9288a2b5"
+        },
+        {
+            "name": "Data View Transform",
+            "start": "2025-12-12T06:54:01.666Z",
+            "end": "2025-12-12T06:54:01.666Z",
+            "id": "ac71f935-7d49-4674-8a06-a9a48f780434",
+            "parentId": "06ad23a8-1076-445f-a5bd-b6ce67d79dfc"
+        },
+        {
+            "name": "Visual Update Async",
+            "start": "2025-12-12T06:54:01.666Z",
+            "end": "2025-12-12T06:54:01.696Z",
+            "id": "d2f9bd53-6ac5-41e0-8459-6402cd7a80ac",
+            "parentId": "06ad23a8-1076-445f-a5bd-b6ce67d79dfc"
+        },
+        {
+            "name": "Visual Update",
+            "start": "2025-12-12T06:54:01.666Z",
+            "end": "2025-12-12T06:54:01.666Z",
+            "id": "d8a61672-5884-4da4-a1fc-ebfdd2f113d2",
+            "parentId": "06ad23a8-1076-445f-a5bd-b6ce67d79dfc"
+        },
+        {
+            "name": "Visual Container Lifecycle",
+            "start": "2025-12-12T06:54:01.570Z",
+            "end": "2025-12-12T06:54:01.699Z",
+            "id": "ef99a44434c2de3403b1-e8b70a777ad3781d5094",
+            "metrics": {
+                "status": 1,
+                "visualTitle": "Shape",
+                "visualId": "ef99a44434c2de3403b1",
+                "visualType": "shape",
+                "initialLoad": false
+            }
+        },
+        {
+            "name": "Query",
+            "start": "2025-12-12T06:54:01.571Z",
+            "end": "2025-12-12T06:54:01.588Z",
+            "id": "bd216b5b-a4eb-4f41-9104-93396befacbc",
+            "parentId": "ef99a44434c2de3403b1-e8b70a777ad3781d5094"
+        },
+        {
+            "name": "Render",
+            "start": "2025-12-12T06:54:01.588Z",
+            "end": "2025-12-12T06:54:01.699Z",
+            "id": "fe86f821-eb48-4714-b517-6424795e7bae",
+            "parentId": "ef99a44434c2de3403b1-e8b70a777ad3781d5094"
+        },
+        {
+            "name": "Data View Transform",
+            "start": "2025-12-12T06:54:01.666Z",
+            "end": "2025-12-12T06:54:01.667Z",
+            "id": "8661bafe-009f-49e1-acc9-c276d8c9b7a4",
+            "parentId": "fe86f821-eb48-4714-b517-6424795e7bae"
+        },
+        {
+            "name": "Visual Update Async",
+            "start": "2025-12-12T06:54:01.667Z",
+            "end": "2025-12-12T06:54:01.696Z",
+            "id": "4ff10853-d38e-4fb3-a63a-ff7b69ac10b0",
+            "parentId": "fe86f821-eb48-4714-b517-6424795e7bae"
+        },
+        {
+            "name": "Visual Update",
+            "start": "2025-12-12T06:54:01.667Z",
+            "end": "2025-12-12T06:54:01.667Z",
+            "id": "19ed1611-4618-4f59-8a2c-65c3da4a1d18",
+            "parentId": "fe86f821-eb48-4714-b517-6424795e7bae"
+        },
+        {
+            "name": "Visual Container Lifecycle",
+            "start": "2025-12-12T06:54:01.571Z",
+            "end": "2025-12-12T06:54:01.699Z",
+            "id": "d27f3ae6962abf0965df-e8eccb5d900a5d0220c3",
+            "metrics": {
+                "status": 1,
+                "visualTitle": "Shape",
+                "visualId": "d27f3ae6962abf0965df",
+                "visualType": "shape",
+                "initialLoad": false
+            }
+        },
+        {
+            "name": "Query",
+            "start": "2025-12-12T06:54:01.572Z",
+            "end": "2025-12-12T06:54:01.589Z",
+            "id": "d3cbd419-9e9a-4865-ba01-daac7439076b",
+            "parentId": "d27f3ae6962abf0965df-e8eccb5d900a5d0220c3"
+        },
+        {
+            "name": "Render",
+            "start": "2025-12-12T06:54:01.588Z",
+            "end": "2025-12-12T06:54:01.699Z",
+            "id": "d516f774-c07a-4da0-b938-54c918b53f4c",
+            "parentId": "d27f3ae6962abf0965df-e8eccb5d900a5d0220c3"
+        },
+        {
+            "name": "Data View Transform",
+            "start": "2025-12-12T06:54:01.667Z",
+            "end": "2025-12-12T06:54:01.667Z",
+            "id": "82ba6278-e031-45bd-b7e8-ca6a514dd0d1",
+            "parentId": "d516f774-c07a-4da0-b938-54c918b53f4c"
+        },
+        {
+            "name": "Visual Update Async",
+            "start": "2025-12-12T06:54:01.667Z",
+            "end": "2025-12-12T06:54:01.696Z",
+            "id": "00f7845e-88cb-4a37-95f8-874f0a419b66",
+            "parentId": "d516f774-c07a-4da0-b938-54c918b53f4c"
+        },
+        {
+            "name": "Visual Update",
+            "start": "2025-12-12T06:54:01.668Z",
+            "end": "2025-12-12T06:54:01.668Z",
+            "id": "061d9d19-83b5-4cb8-90b9-e94a49bf0d62",
+            "parentId": "d516f774-c07a-4da0-b938-54c918b53f4c"
+        },
+        {
+            "name": "Visual Container Lifecycle",
+            "start": "2025-12-12T06:54:01.572Z",
+            "end": "2025-12-12T06:54:01.700Z",
+            "id": "e7fdaa4738b90f9605ad-e62488cbe84a1a0114d1",
+            "metrics": {
+                "status": 1,
+                "visualTitle": "Shape",
+                "visualId": "e7fdaa4738b90f9605ad",
+                "visualType": "shape",
+                "initialLoad": false
+            }
+        },
+        {
+            "name": "Query",
+            "start": "2025-12-12T06:54:01.572Z",
+            "end": "2025-12-12T06:54:01.589Z",
+            "id": "e7fe46e3-e338-4689-9b7f-58fd0d44e8f4",
+            "parentId": "e7fdaa4738b90f9605ad-e62488cbe84a1a0114d1"
+        },
+        {
+            "name": "Render",
+            "start": "2025-12-12T06:54:01.589Z",
+            "end": "2025-12-12T06:54:01.700Z",
+            "id": "79cf33d7-09d0-42db-870c-4aa59295bf79",
+            "parentId": "e7fdaa4738b90f9605ad-e62488cbe84a1a0114d1"
+        },
+        {
+            "name": "Data View Transform",
+            "start": "2025-12-12T06:54:01.668Z",
+            "end": "2025-12-12T06:54:01.668Z",
+            "id": "165591cf-3cb4-47a0-a03a-f1ef4a9c2f2f",
+            "parentId": "79cf33d7-09d0-42db-870c-4aa59295bf79"
+        },
+        {
+            "name": "Visual Update Async",
+            "start": "2025-12-12T06:54:01.668Z",
+            "end": "2025-12-12T06:54:01.696Z",
+            "id": "2849716e-6cfd-40a1-a337-d8fba24c7f50",
+            "parentId": "79cf33d7-09d0-42db-870c-4aa59295bf79"
+        },
+        {
+            "name": "Visual Update",
+            "start": "2025-12-12T06:54:01.668Z",
+            "end": "2025-12-12T06:54:01.668Z",
+            "id": "5b3ad8d2-2d9b-40c3-ba82-ddc557176e73",
+            "parentId": "79cf33d7-09d0-42db-870c-4aa59295bf79"
+        },
+        {
+            "name": "Visual Container Lifecycle",
+            "start": "2025-12-12T06:54:01.573Z",
+            "end": "2025-12-12T06:54:01.999Z",
+            "id": "3a5f6793cc1926cbfc41-aab2f5c4136c72117ff1",
+            "metrics": {
+                "status": 1,
+                "visualTitle": "Orders By Product Category ",
+                "visualId": "3a5f6793cc1926cbfc41",
+                "visualType": "clusteredBarChart",
+                "initialLoad": false
+            }
+        },
+        {
+            "name": "Resolve Parameters",
+            "start": "2025-12-12T06:54:01.573Z",
+            "end": "2025-12-12T06:54:01.589Z",
+            "id": "e3f4c738-d482-4046-a405-268c0e13ffaf",
+            "parentId": "3a5f6793cc1926cbfc41-aab2f5c4136c72117ff1"
+        },
+        {
+            "name": "Query",
+            "start": "2025-12-12T06:54:01.589Z",
+            "end": "2025-12-12T06:54:01.901Z",
+            "id": "c7e0fd23-3010-4af2-a330-8084624b25d9",
+            "parentId": "3a5f6793cc1926cbfc41-aab2f5c4136c72117ff1"
+        },
+        {
+            "name": "Render",
+            "start": "2025-12-12T06:54:01.900Z",
+            "end": "2025-12-12T06:54:01.999Z",
+            "id": "1a7875f6-9ff1-4d7b-a413-ef4ef0f5d5da",
+            "parentId": "3a5f6793cc1926cbfc41-aab2f5c4136c72117ff1"
+        },
+        {
+            "name": "Data View Transform",
+            "start": "2025-12-12T06:54:01.939Z",
+            "end": "2025-12-12T06:54:01.940Z",
+            "id": "c0e087a7-a140-4b14-99d7-c88d3b43ad4e",
+            "parentId": "1a7875f6-9ff1-4d7b-a413-ef4ef0f5d5da"
+        },
+        {
+            "name": "Visual Update Async",
+            "start": "2025-12-12T06:54:01.940Z",
+            "end": "2025-12-12T06:54:01.997Z",
+            "id": "bb9ccfa1-8bbf-496a-932a-fd965d31b6fa",
+            "parentId": "1a7875f6-9ff1-4d7b-a413-ef4ef0f5d5da"
+        },
+        {
+            "name": "Visual Update",
+            "start": "2025-12-12T06:54:01.941Z",
+            "end": "2025-12-12T06:54:01.941Z",
+            "id": "c82ac250-920b-444d-8bfc-448b7dca2877",
+            "parentId": "1a7875f6-9ff1-4d7b-a413-ef4ef0f5d5da"
+        },
+        {
+            "name": "Execute Semantic Query",
+            "component": "DSE",
+            "start": "2025-12-12T06:54:01.750Z",
+            "end": "2025-12-12T06:54:01.816Z",
+            "id": "dad8f1a0-0b8a-4170-8b9b-a81d00de99c2",
+            "parentId": "c7e0fd23-3010-4af2-a330-8084624b25d9"
+        },
+        {
+            "name": "Query Generation",
+            "start": "2025-12-12T06:54:01.599Z",
+            "end": "2025-12-12T06:54:01.601Z",
+            "id": "43263c27-d5bf-43f0-a916-8e9781db77d1",
+            "parentId": "c7e0fd23-3010-4af2-a330-8084624b25d9"
+        },
+        {
+            "name": "Query Pending",
+            "start": "2025-12-12T06:54:01.737Z",
+            "end": "2025-12-12T06:54:01.741Z",
+            "id": "2c72744d-4ce3-41b5-b33f-7f6bafc6320f",
+            "parentId": "c7e0fd23-3010-4af2-a330-8084624b25d9"
+        },
+        {
+            "name": "Parse Query Result",
+            "start": "2025-12-12T06:54:01.899Z",
+            "end": "2025-12-12T06:54:01.900Z",
+            "id": "b9ba9353-fc2e-4427-923e-f241dfaa1553",
+            "parentId": "c7e0fd23-3010-4af2-a330-8084624b25d9"
+        },
+        {
+            "name": "Execute DAX Query",
+            "component": "DSE",
+            "start": "2025-12-12T06:54:01.770Z",
+            "end": "2025-12-12T06:54:01.815Z",
+            "id": "86dcbec5-80cd-4d18-a47c-779ec4e5c441",
+            "parentId": "dad8f1a0-0b8a-4170-8b9b-a81d00de99c2",
+            "metrics": {
+                "QueryText": "DEFINE\r\n\tVAR __DS0Core = \r\n\t\tSUMMARIZECOLUMNS(\r\n\t\t\t'Adv_Works_Product Categories Lookup'[CategoryName],\r\n\t\t\t\"Total_Orders_SalesPerCust\", 'Measure_Table (Sales)'[Total_Orders_SalesPerCust]\r\n\t\t)\r\n\r\n\tVAR __DS0PrimaryWindowed = \r\n\t\tTOPN(\r\n\t\t\t1001,\r\n\t\t\t__DS0Core,\r\n\t\t\t[Total_Orders_SalesPerCust],\r\n\t\t\t0,\r\n\t\t\t'Adv_Works_Product Categories Lookup'[CategoryName],\r\n\t\t\t1\r\n\t\t)\r\n\r\nEVALUATE\r\n\t__DS0PrimaryWindowed\r\n\r\nORDER BY\r\n\t[Total_Orders_SalesPerCust] DESC,\r\n\t'Adv_Works_Product Categories Lookup'[CategoryName]",
+                "RowCount": 3
+            }
+        },
+        {
+            "name": "Execute Query",
+            "component": "AS",
+            "start": "2025-12-12T06:54:01.810Z",
+            "end": "2025-12-12T06:54:01.813Z",
+            "id": "2760F679-1D81-4A5A-9B1F-CB750C9E03C3",
+            "parentId": "86dcbec5-80cd-4d18-a47c-779ec4e5c441"
+        },
+        {
+            "name": "Serialize Rowset",
+            "component": "AS",
+            "start": "2025-12-12T06:54:01.813Z",
+            "end": "2025-12-12T06:54:01.813Z",
+            "id": "2AAF6630-5BD7-4318-BEEE-914EE997A0A6",
+            "parentId": "2760F679-1D81-4A5A-9B1F-CB750C9E03C3"
+        },
+        {
+            "name": "Visual Container Lifecycle",
+            "start": "2025-12-12T06:54:01.574Z",
+            "end": "2025-12-12T06:54:02.001Z",
+            "id": "d551f96388a48d98712a-ffbd31216d67de64f58b",
+            "metrics": {
+                "status": 1,
+                "visualTitle": "Weekly Total Cost",
+                "visualId": "d551f96388a48d98712a",
+                "visualType": "lineChart",
+                "initialLoad": false
+            }
+        },
+        {
+            "name": "Resolve Parameters",
+            "start": "2025-12-12T06:54:01.575Z",
+            "end": "2025-12-12T06:54:01.589Z",
+            "id": "0970d281-fa07-4ba4-81ea-d6c47b6e496a",
+            "parentId": "d551f96388a48d98712a-ffbd31216d67de64f58b"
+        },
+        {
+            "name": "Query",
+            "start": "2025-12-12T06:54:01.589Z",
+            "end": "2025-12-12T06:54:01.913Z",
+            "id": "788240a3-5a14-4fea-aa63-d7ea5dd92b9c",
+            "parentId": "d551f96388a48d98712a-ffbd31216d67de64f58b"
+        },
+        {
+            "name": "Render",
+            "start": "2025-12-12T06:54:01.913Z",
+            "end": "2025-12-12T06:54:02.001Z",
+            "id": "8cbe88a5-d508-469f-a423-8b1dc634942b",
+            "parentId": "d551f96388a48d98712a-ffbd31216d67de64f58b"
+        },
+        {
+            "name": "Data View Transform",
+            "start": "2025-12-12T06:54:01.941Z",
+            "end": "2025-12-12T06:54:01.944Z",
+            "id": "da5fd712-18a9-45d8-b5e7-711a8ad1c6e0",
+            "parentId": "8cbe88a5-d508-469f-a423-8b1dc634942b"
+        },
+        {
+            "name": "Visual Update Async",
+            "start": "2025-12-12T06:54:01.944Z",
+            "end": "2025-12-12T06:54:01.997Z",
+            "id": "28bcf452-8e15-482c-8b21-ce5314d2f39d",
+            "parentId": "8cbe88a5-d508-469f-a423-8b1dc634942b"
+        },
+        {
+            "name": "Visual Update",
+            "start": "2025-12-12T06:54:01.944Z",
+            "end": "2025-12-12T06:54:01.944Z",
+            "id": "c3c46166-60ea-49ea-a6a2-77ffe586281e",
+            "parentId": "8cbe88a5-d508-469f-a423-8b1dc634942b"
+        },
+        {
+            "name": "Execute Semantic Query",
+            "component": "DSE",
+            "start": "2025-12-12T06:54:01.745Z",
+            "end": "2025-12-12T06:54:01.823Z",
+            "id": "3f4d54ba-a2e9-4aef-a443-b7a52ba5a054",
+            "parentId": "788240a3-5a14-4fea-aa63-d7ea5dd92b9c"
+        },
+        {
+            "name": "Query Generation",
+            "start": "2025-12-12T06:54:01.602Z",
+            "end": "2025-12-12T06:54:01.604Z",
+            "id": "8d78d724-dd5a-4b23-b760-fa851a3c1b7d",
+            "parentId": "788240a3-5a14-4fea-aa63-d7ea5dd92b9c"
+        },
+        {
+            "name": "Query Pending",
+            "start": "2025-12-12T06:54:01.737Z",
+            "end": "2025-12-12T06:54:01.740Z",
+            "id": "664b12eb-786c-4a41-8ad0-f3d64729af14",
+            "parentId": "788240a3-5a14-4fea-aa63-d7ea5dd92b9c"
+        },
+        {
+            "name": "Parse Query Result",
+            "start": "2025-12-12T06:54:01.911Z",
+            "end": "2025-12-12T06:54:01.912Z",
+            "id": "e978bfb9-d189-4ef6-9ae3-2ec9dd1e3078",
+            "parentId": "788240a3-5a14-4fea-aa63-d7ea5dd92b9c"
+        },
+        {
+            "name": "Execute DAX Query",
+            "component": "DSE",
+            "start": "2025-12-12T06:54:01.770Z",
+            "end": "2025-12-12T06:54:01.816Z",
+            "id": "bc6cd704-0eb1-4b9d-85e4-455310fb1afd",
+            "parentId": "3f4d54ba-a2e9-4aef-a443-b7a52ba5a054",
+            "metrics": {
+                "QueryText": "DEFINE\r\n\tVAR __DS0Core = \r\n\t\tSUMMARIZECOLUMNS(\r\n\t\t\t'Adv_Wrks Calendar Lookup'[Start of Week],\r\n\t\t\t\"Total_Cost\", 'Measure_Table (Sales)'[Total Cost]\r\n\t\t)\r\n\r\n\tVAR __DS0IntersectionCount = CALCULATE(COUNTROWS(__DS0Core))\r\n\r\n\tVAR __DS0BodyBinnedSample = \r\n\t\tSAMPLEAXISWITHLOCALMINMAX(\r\n\t\t\t3500,\r\n\t\t\t__DS0Core,\r\n\t\t\t'Adv_Wrks Calendar Lookup'[Start of Week],\r\n\t\t\t[Total_Cost],\r\n\t\t\t350,\r\n\t\t\t,\r\n\t\t\tALPHABETICAL,\r\n\t\t\tASC,\r\n\t\t\t105000,\r\n\t\t\t60\r\n\t\t)\r\n\r\nEVALUATE\r\n\tROW(\r\n\t\"DS0IntersectionCount\", __DS0IntersectionCount\r\n)\r\n\r\nEVALUATE\r\n\t__DS0BodyBinnedSample\r\n\r\nORDER BY\r\n\t'Adv_Wrks Calendar Lookup'[Start of Week]",
+                "RowCount": 28
+            }
+        },
+        {
+            "name": "Execute Query",
+            "component": "AS",
+            "start": "2025-12-12T06:54:01.800Z",
+            "end": "2025-12-12T06:54:01.817Z",
+            "id": "762344FE-2702-4D36-AC79-97538F638064",
+            "parentId": "bc6cd704-0eb1-4b9d-85e4-455310fb1afd"
+        },
+        {
+            "name": "Serialize Rowset",
+            "component": "AS",
+            "start": "2025-12-12T06:54:01.817Z",
+            "end": "2025-12-12T06:54:01.817Z",
+            "id": "92C06B13-184F-41F4-B9E2-5C24B98AF1C1",
+            "parentId": "762344FE-2702-4D36-AC79-97538F638064"
+        },
+        {
+            "name": "Visual Container Lifecycle",
+            "start": "2025-12-12T06:54:01.576Z",
+            "end": "2025-12-12T06:54:01.707Z",
+            "id": "7749ab0e62c08e55e3cf-43e98ac06b1fd8764135",
+            "metrics": {
+                "status": 1,
+                "visualTitle": "Button",
+                "visualId": "7749ab0e62c08e55e3cf",
+                "visualType": "actionButton",
+                "initialLoad": false
+            }
+        },
+        {
+            "name": "Query",
+            "start": "2025-12-12T06:54:01.576Z",
+            "end": "2025-12-12T06:54:01.626Z",
+            "id": "f3493d3f-b3a7-4572-a6fb-32944a3ac8f7",
+            "parentId": "7749ab0e62c08e55e3cf-43e98ac06b1fd8764135"
+        },
+        {
+            "name": "Visual Container Resource Load",
+            "start": "2025-12-12T06:54:01.576Z",
+            "end": "2025-12-12T06:54:01.594Z",
+            "id": "2e161b34-dc37-4172-8e91-bf5e7a768c21",
+            "parentId": "7749ab0e62c08e55e3cf-43e98ac06b1fd8764135"
+        },
+        {
+            "name": "Visual Container Resource Load",
+            "start": "2025-12-12T06:54:01.576Z",
+            "end": "2025-12-12T06:54:01.594Z",
+            "id": "c24fdd61-1b0c-4c8a-8077-765bcb4010d1",
+            "parentId": "7749ab0e62c08e55e3cf-43e98ac06b1fd8764135"
+        },
+        {
+            "name": "Visual Container Resource Load",
+            "start": "2025-12-12T06:54:01.576Z",
+            "end": "2025-12-12T06:54:01.594Z",
+            "id": "5ccb1253-5611-40d0-ae19-edd2e8b97d99",
+            "parentId": "7749ab0e62c08e55e3cf-43e98ac06b1fd8764135"
+        },
+        {
+            "name": "Render",
+            "start": "2025-12-12T06:54:01.626Z",
+            "end": "2025-12-12T06:54:01.707Z",
+            "id": "930526d4-ecd5-4751-96ca-39b201309ef5",
+            "parentId": "7749ab0e62c08e55e3cf-43e98ac06b1fd8764135"
+        },
+        {
+            "name": "Data View Transform",
+            "start": "2025-12-12T06:54:01.670Z",
+            "end": "2025-12-12T06:54:01.670Z",
+            "id": "dbaf4b84-c668-40c2-93f7-b4339675312c",
+            "parentId": "930526d4-ecd5-4751-96ca-39b201309ef5"
+        },
+        {
+            "name": "Visual Update Async",
+            "start": "2025-12-12T06:54:01.670Z",
+            "end": "2025-12-12T06:54:01.705Z",
+            "id": "4557f6db-e7d5-40cf-b949-54ddb2ae2981",
+            "parentId": "930526d4-ecd5-4751-96ca-39b201309ef5"
+        },
+        {
+            "name": "Visual Update",
+            "start": "2025-12-12T06:54:01.670Z",
+            "end": "2025-12-12T06:54:01.670Z",
+            "id": "2ffa90b3-d40c-4e09-a09f-6ced8849cec1",
+            "parentId": "930526d4-ecd5-4751-96ca-39b201309ef5"
+        },
+        {
+            "name": "Visual Container Lifecycle",
+            "start": "2025-12-12T06:54:01.577Z",
+            "end": "2025-12-12T06:54:01.708Z",
+            "id": "0289a4ba87e6c132a3d9-419430ccc664db517144",
+            "metrics": {
+                "status": 1,
+                "visualTitle": "Button",
+                "visualId": "0289a4ba87e6c132a3d9",
+                "visualType": "actionButton",
+                "initialLoad": false
+            }
+        },
+        {
+            "name": "Query",
+            "start": "2025-12-12T06:54:01.577Z",
+            "end": "2025-12-12T06:54:01.627Z",
+            "id": "f3465f3d-3d32-4983-9659-d55107064f6e",
+            "parentId": "0289a4ba87e6c132a3d9-419430ccc664db517144"
+        },
+        {
+            "name": "Visual Container Resource Load",
+            "start": "2025-12-12T06:54:01.577Z",
+            "end": "2025-12-12T06:54:01.594Z",
+            "id": "bcbdf71b-5cb6-4d9f-a4e7-653447c9effd",
+            "parentId": "0289a4ba87e6c132a3d9-419430ccc664db517144"
+        },
+        {
+            "name": "Visual Container Resource Load",
+            "start": "2025-12-12T06:54:01.577Z",
+            "end": "2025-12-12T06:54:01.594Z",
+            "id": "ac17f0c7-7cef-420e-891e-4df6ddebe46b",
+            "parentId": "0289a4ba87e6c132a3d9-419430ccc664db517144"
+        },
+        {
+            "name": "Visual Container Resource Load",
+            "start": "2025-12-12T06:54:01.577Z",
+            "end": "2025-12-12T06:54:01.594Z",
+            "id": "d05b9bae-f9f6-43c7-9053-d2b2a34f61a7",
+            "parentId": "0289a4ba87e6c132a3d9-419430ccc664db517144"
+        },
+        {
+            "name": "Render",
+            "start": "2025-12-12T06:54:01.627Z",
+            "end": "2025-12-12T06:54:01.708Z",
+            "id": "41d976b9-6899-4bb8-aa20-e69e5eb3df5c",
+            "parentId": "0289a4ba87e6c132a3d9-419430ccc664db517144"
+        },
+        {
+            "name": "Data View Transform",
+            "start": "2025-12-12T06:54:01.670Z",
+            "end": "2025-12-12T06:54:01.671Z",
+            "id": "01674892-7542-4e58-a369-8f44d465b782",
+            "parentId": "41d976b9-6899-4bb8-aa20-e69e5eb3df5c"
+        },
+        {
+            "name": "Visual Update Async",
+            "start": "2025-12-12T06:54:01.671Z",
+            "end": "2025-12-12T06:54:01.705Z",
+            "id": "eaa7b745-a70d-4809-a6fc-740a3fef2766",
+            "parentId": "41d976b9-6899-4bb8-aa20-e69e5eb3df5c"
+        },
+        {
+            "name": "Visual Update",
+            "start": "2025-12-12T06:54:01.671Z",
+            "end": "2025-12-12T06:54:01.671Z",
+            "id": "25ca0b19-2775-4569-9466-1303c18b0584",
+            "parentId": "41d976b9-6899-4bb8-aa20-e69e5eb3df5c"
+        },
+        {
+            "name": "Visual Container Lifecycle",
+            "start": "2025-12-12T06:54:01.578Z",
+            "end": "2025-12-12T06:54:01.709Z",
+            "id": "a3dfa79eaf829ac4239f-b38632c6738d2c9a4573",
+            "metrics": {
+                "status": 1,
+                "visualTitle": "Button",
+                "visualId": "a3dfa79eaf829ac4239f",
+                "visualType": "actionButton",
+                "initialLoad": false
+            }
+        },
+        {
+            "name": "Query",
+            "start": "2025-12-12T06:54:01.578Z",
+            "end": "2025-12-12T06:54:01.628Z",
+            "id": "b069d665-18c9-46b9-9a3a-79e421ef4ed8",
+            "parentId": "a3dfa79eaf829ac4239f-b38632c6738d2c9a4573"
+        },
+        {
+            "name": "Visual Container Resource Load",
+            "start": "2025-12-12T06:54:01.578Z",
+            "end": "2025-12-12T06:54:01.594Z",
+            "id": "8adb6be3-8e82-40b1-b404-2d696acda185",
+            "parentId": "a3dfa79eaf829ac4239f-b38632c6738d2c9a4573"
+        },
+        {
+            "name": "Visual Container Resource Load",
+            "start": "2025-12-12T06:54:01.578Z",
+            "end": "2025-12-12T06:54:01.594Z",
+            "id": "8b72b1b7-de0d-49c2-a4de-4e460c541038",
+            "parentId": "a3dfa79eaf829ac4239f-b38632c6738d2c9a4573"
+        },
+        {
+            "name": "Visual Container Resource Load",
+            "start": "2025-12-12T06:54:01.578Z",
+            "end": "2025-12-12T06:54:01.594Z",
+            "id": "21803455-460b-47d1-aac3-ceccde76e923",
+            "parentId": "a3dfa79eaf829ac4239f-b38632c6738d2c9a4573"
+        },
+        {
+            "name": "Render",
+            "start": "2025-12-12T06:54:01.627Z",
+            "end": "2025-12-12T06:54:01.709Z",
+            "id": "e0622dac-0f58-4cb9-a773-6831817563d0",
+            "parentId": "a3dfa79eaf829ac4239f-b38632c6738d2c9a4573"
+        },
+        {
+            "name": "Data View Transform",
+            "start": "2025-12-12T06:54:01.672Z",
+            "end": "2025-12-12T06:54:01.673Z",
+            "id": "38ffbd7d-2d07-460a-a820-40391ed22bc0",
+            "parentId": "e0622dac-0f58-4cb9-a773-6831817563d0"
+        },
+        {
+            "name": "Visual Update Async",
+            "start": "2025-12-12T06:54:01.673Z",
+            "end": "2025-12-12T06:54:01.705Z",
+            "id": "c0547945-7dd4-4888-8b1f-2621320beadd",
+            "parentId": "e0622dac-0f58-4cb9-a773-6831817563d0"
+        },
+        {
+            "name": "Visual Update",
+            "start": "2025-12-12T06:54:01.673Z",
+            "end": "2025-12-12T06:54:01.673Z",
+            "id": "471fb9c7-f69b-4a39-90bd-98c899f537ba",
+            "parentId": "e0622dac-0f58-4cb9-a773-6831817563d0"
+        },
+        {
+            "name": "Visual Container Lifecycle",
+            "start": "2025-12-12T06:54:01.579Z",
+            "end": "2025-12-12T06:54:01.709Z",
+            "id": "2fbea302b0b7ab9b691e-8c98ab6c67d5e88bc4b2",
+            "metrics": {
+                "status": 1,
+                "visualTitle": "Button",
+                "visualId": "2fbea302b0b7ab9b691e",
+                "visualType": "actionButton",
+                "initialLoad": false
+            }
+        },
+        {
+            "name": "Query",
+            "start": "2025-12-12T06:54:01.579Z",
+            "end": "2025-12-12T06:54:01.630Z",
+            "id": "a3034dc4-b25f-4ee5-8f7a-6d1c1f077990",
+            "parentId": "2fbea302b0b7ab9b691e-8c98ab6c67d5e88bc4b2"
+        },
+        {
+            "name": "Visual Container Resource Load",
+            "start": "2025-12-12T06:54:01.579Z",
+            "end": "2025-12-12T06:54:01.595Z",
+            "id": "838cf704-a2fa-451c-9570-063f2d6c917c",
+            "parentId": "2fbea302b0b7ab9b691e-8c98ab6c67d5e88bc4b2"
+        },
+        {
+            "name": "Visual Container Resource Load",
+            "start": "2025-12-12T06:54:01.579Z",
+            "end": "2025-12-12T06:54:01.595Z",
+            "id": "1f6be134-89da-4e3b-8ec6-af032b2a6019",
+            "parentId": "2fbea302b0b7ab9b691e-8c98ab6c67d5e88bc4b2"
+        },
+        {
+            "name": "Visual Container Resource Load",
+            "start": "2025-12-12T06:54:01.579Z",
+            "end": "2025-12-12T06:54:01.595Z",
+            "id": "1e99c1a2-528e-4397-84d2-c796f866cb11",
+            "parentId": "2fbea302b0b7ab9b691e-8c98ab6c67d5e88bc4b2"
+        },
+        {
+            "name": "Render",
+            "start": "2025-12-12T06:54:01.630Z",
+            "end": "2025-12-12T06:54:01.709Z",
+            "id": "2ff54d66-53e8-412e-aba7-1ef99e95e17e",
+            "parentId": "2fbea302b0b7ab9b691e-8c98ab6c67d5e88bc4b2"
+        },
+        {
+            "name": "Data View Transform",
+            "start": "2025-12-12T06:54:01.674Z",
+            "end": "2025-12-12T06:54:01.674Z",
+            "id": "0fe0791d-5340-4eea-8af4-a969cd9154ee",
+            "parentId": "2ff54d66-53e8-412e-aba7-1ef99e95e17e"
+        },
+        {
+            "name": "Visual Update Async",
+            "start": "2025-12-12T06:54:01.674Z",
+            "end": "2025-12-12T06:54:01.705Z",
+            "id": "e316d6d5-59c0-4491-a9a1-31f521d88d8f",
+            "parentId": "2ff54d66-53e8-412e-aba7-1ef99e95e17e"
+        },
+        {
+            "name": "Visual Update",
+            "start": "2025-12-12T06:54:01.674Z",
+            "end": "2025-12-12T06:54:01.674Z",
+            "id": "484a625d-e86f-49c3-8296-58dbe8cdacc4",
+            "parentId": "2ff54d66-53e8-412e-aba7-1ef99e95e17e"
+        },
+        {
+            "name": "Visual Container Lifecycle",
+            "start": "2025-12-12T06:54:01.590Z",
+            "end": "2025-12-12T06:54:02.055Z",
+            "id": "ea3d3961eeece87ae20b-3ea0cdf401563992b2d6",
+            "metrics": {
+                "status": 1,
+                "visualTitle": "Most Order Product",
+                "visualId": "ea3d3961eeece87ae20b",
+                "visualType": "cardVisual",
+                "initialLoad": false
+            }
+        },
+        {
+            "name": "Resolve Parameters",
+            "start": "2025-12-12T06:54:01.590Z",
+            "end": "2025-12-12T06:54:01.619Z",
+            "id": "5732a400-e66b-4082-b634-aac5264e686c",
+            "parentId": "ea3d3961eeece87ae20b-3ea0cdf401563992b2d6"
+        },
+        {
+            "name": "Query",
+            "start": "2025-12-12T06:54:01.619Z",
+            "end": "2025-12-12T06:54:01.898Z",
+            "id": "f89b9e28-19f3-477f-986a-08f8acce6ab9",
+            "parentId": "ea3d3961eeece87ae20b-3ea0cdf401563992b2d6"
+        },
+        {
+            "name": "Render",
+            "start": "2025-12-12T06:54:01.898Z",
+            "end": "2025-12-12T06:54:02.054Z",
+            "id": "579c7f4f-930f-4553-966f-de18948ec5cf",
+            "parentId": "ea3d3961eeece87ae20b-3ea0cdf401563992b2d6"
+        },
+        {
+            "name": "Data View Transform",
+            "start": "2025-12-12T06:54:01.954Z",
+            "end": "2025-12-12T06:54:01.955Z",
+            "id": "43d23d16-3502-4d7c-bbdc-c3cf7144a0e8",
+            "parentId": "579c7f4f-930f-4553-966f-de18948ec5cf"
+        },
+        {
+            "name": "Visual Update Async",
+            "start": "2025-12-12T06:54:01.955Z",
+            "end": "2025-12-12T06:54:02.054Z",
+            "id": "1944602d-c7a4-4fef-a3c7-5fa97fd3f259",
+            "parentId": "579c7f4f-930f-4553-966f-de18948ec5cf"
+        },
+        {
+            "name": "Visual Update",
+            "start": "2025-12-12T06:54:01.955Z",
+            "end": "2025-12-12T06:54:01.955Z",
+            "id": "49d1cbd8-5105-49f3-b30a-e1dd831c58fa",
+            "parentId": "579c7f4f-930f-4553-966f-de18948ec5cf"
+        },
+        {
+            "name": "Execute Semantic Query",
+            "component": "DSE",
+            "start": "2025-12-12T06:54:01.745Z",
+            "end": "2025-12-12T06:54:01.815Z",
+            "id": "0e545db1-dffa-4a09-a117-c0903cf17666",
+            "parentId": "f89b9e28-19f3-477f-986a-08f8acce6ab9"
+        },
+        {
+            "name": "Query Generation",
+            "start": "2025-12-12T06:54:01.622Z",
+            "end": "2025-12-12T06:54:01.625Z",
+            "id": "e250604e-0370-4de9-8993-2ca8d9d2def9",
+            "parentId": "f89b9e28-19f3-477f-986a-08f8acce6ab9"
+        },
+        {
+            "name": "Query Pending",
+            "start": "2025-12-12T06:54:01.738Z",
+            "end": "2025-12-12T06:54:01.740Z",
+            "id": "653dfa2b-b1de-484c-8d47-c45d6ef7ea51",
+            "parentId": "f89b9e28-19f3-477f-986a-08f8acce6ab9"
+        },
+        {
+            "name": "Parse Query Result",
+            "start": "2025-12-12T06:54:01.897Z",
+            "end": "2025-12-12T06:54:01.898Z",
+            "id": "cae9e9d1-5b1c-4970-a169-a740c0e95bcf",
+            "parentId": "f89b9e28-19f3-477f-986a-08f8acce6ab9"
+        },
+        {
+            "name": "Execute DAX Query",
+            "component": "DSE",
+            "start": "2025-12-12T06:54:01.770Z",
+            "end": "2025-12-12T06:54:01.814Z",
+            "id": "91512e68-b573-46cb-8a4f-9e523da4d9a4",
+            "parentId": "0e545db1-dffa-4a09-a117-c0903cf17666",
+            "metrics": {
+                "QueryText": "DEFINE\r\n\tVAR __SQDS0Core = \r\n\t\tSUMMARIZECOLUMNS(\r\n\t\t\t'Adv_Wrks_Product Subcategories Lookup'[SubcategoryName],\r\n\t\t\t\"Total_Orders_SalesPerCust\", 'Measure_Table (Sales)'[Total_Orders_SalesPerCust]\r\n\t\t)\r\n\r\n\tVAR __SQDS0BodyLimited = \r\n\t\tTOPN(1, __SQDS0Core, [Total_Orders_SalesPerCust], 0)\r\n\r\nEVALUATE\r\n\tSUMMARIZECOLUMNS(\r\n\t\t__SQDS0BodyLimited,\r\n\t\t\"MinSubcategoryName\", IGNORE(CALCULATE(MIN('Adv_Wrks_Product Subcategories Lookup'[SubcategoryName])))\r\n\t)",
+                "RowCount": 1
+            }
+        },
+        {
+            "name": "Execute Query",
+            "component": "AS",
+            "start": "2025-12-12T06:54:01.800Z",
+            "end": "2025-12-12T06:54:01.813Z",
+            "id": "54FD1097-26D9-4B0F-A488-87FA73147E32",
+            "parentId": "91512e68-b573-46cb-8a4f-9e523da4d9a4"
+        },
+        {
+            "name": "Serialize Rowset",
+            "component": "AS",
+            "start": "2025-12-12T06:54:01.813Z",
+            "end": "2025-12-12T06:54:01.813Z",
+            "id": "0D2D18CF-BC7A-49F9-B95C-C84FD5663A89",
+            "parentId": "54FD1097-26D9-4B0F-A488-87FA73147E32"
+        },
+        {
+            "name": "Visual Container Lifecycle",
+            "start": "2025-12-12T06:54:01.613Z",
+            "end": "2025-12-12T06:54:01.997Z",
+            "id": "fdf8f019cb1e105deb23-3dfd3e2e5ea6d8a8e44c",
+            "metrics": {
+                "status": 1,
+                "visualTitle": "Total Cost By Month",
+                "visualId": "fdf8f019cb1e105deb23",
+                "visualType": "kpi",
+                "initialLoad": false
+            }
+        },
+        {
+            "name": "Resolve Parameters",
+            "start": "2025-12-12T06:54:01.613Z",
+            "end": "2025-12-12T06:54:01.627Z",
+            "id": "49a3e890-4fee-4c19-9bbd-ab20e8952ab0",
+            "parentId": "fdf8f019cb1e105deb23-3dfd3e2e5ea6d8a8e44c"
+        },
+        {
+            "name": "Query",
+            "start": "2025-12-12T06:54:01.627Z",
+            "end": "2025-12-12T06:54:01.906Z",
+            "id": "80963472-6a90-40b1-8992-fb53ca8fb8ae",
+            "parentId": "fdf8f019cb1e105deb23-3dfd3e2e5ea6d8a8e44c"
+        },
+        {
+            "name": "Render",
+            "start": "2025-12-12T06:54:01.906Z",
+            "end": "2025-12-12T06:54:01.997Z",
+            "id": "9623c67c-7bb8-4cb7-9c19-6dcf58882e1a",
+            "parentId": "fdf8f019cb1e105deb23-3dfd3e2e5ea6d8a8e44c"
+        },
+        {
+            "name": "Data View Transform",
+            "start": "2025-12-12T06:54:01.947Z",
+            "end": "2025-12-12T06:54:01.949Z",
+            "id": "58dfc0cf-503a-407b-8b3a-477a4a673b61",
+            "parentId": "9623c67c-7bb8-4cb7-9c19-6dcf58882e1a"
+        },
+        {
+            "name": "Visual Update Async",
+            "start": "2025-12-12T06:54:01.949Z",
+            "end": "2025-12-12T06:54:01.996Z",
+            "id": "13bafb73-b26a-4404-b869-35cadb0d8187",
+            "parentId": "9623c67c-7bb8-4cb7-9c19-6dcf58882e1a"
+        },
+        {
+            "name": "Visual Update",
+            "start": "2025-12-12T06:54:01.949Z",
+            "end": "2025-12-12T06:54:01.949Z",
+            "id": "f5762e3f-d14a-42b0-87f5-e98e446b5a20",
+            "parentId": "9623c67c-7bb8-4cb7-9c19-6dcf58882e1a"
+        },
+        {
+            "name": "Execute Semantic Query",
+            "component": "DSE",
+            "start": "2025-12-12T06:54:01.745Z",
+            "end": "2025-12-12T06:54:01.817Z",
+            "id": "1b91460d-bee9-4acc-9a04-08ca3eef3878",
+            "parentId": "80963472-6a90-40b1-8992-fb53ca8fb8ae"
+        },
+        {
+            "name": "Query Generation",
+            "start": "2025-12-12T06:54:01.632Z",
+            "end": "2025-12-12T06:54:01.633Z",
+            "id": "269aefea-119c-4700-ae15-4df101249eaf",
+            "parentId": "80963472-6a90-40b1-8992-fb53ca8fb8ae"
+        },
+        {
+            "name": "Query Pending",
+            "start": "2025-12-12T06:54:01.738Z",
+            "end": "2025-12-12T06:54:01.740Z",
+            "id": "840a19fc-98ca-4693-b33f-6dacd37a2631",
+            "parentId": "80963472-6a90-40b1-8992-fb53ca8fb8ae"
+        },
+        {
+            "name": "Parse Query Result",
+            "start": "2025-12-12T06:54:01.904Z",
+            "end": "2025-12-12T06:54:01.905Z",
+            "id": "c15108f4-62d6-41cf-b100-e8921bacb5d6",
+            "parentId": "80963472-6a90-40b1-8992-fb53ca8fb8ae"
+        },
+        {
+            "name": "Execute DAX Query",
+            "component": "DSE",
+            "start": "2025-12-12T06:54:01.770Z",
+            "end": "2025-12-12T06:54:01.816Z",
+            "id": "359e303d-4a56-4f03-827e-505076b18f11",
+            "parentId": "1b91460d-bee9-4acc-9a04-08ca3eef3878",
+            "metrics": {
+                "QueryText": "DEFINE\r\n\tVAR __DS0Core = \r\n\t\tSUMMARIZECOLUMNS(\r\n\t\t\t'Adv_Wrks Calendar Lookup'[Start of Month],\r\n\t\t\t\"CountCaps_Short_Month\", CALCULATE(COUNTA('Adv_Wrks Calendar Lookup'[Caps_Short_Month])),\r\n\t\t\t\"Total_Cost\", 'Measure_Table (Sales)'[Total Cost]\r\n\t\t)\r\n\r\n\tVAR __DS0BodyLimited = \r\n\t\tTOPN(1002, __DS0Core, 'Adv_Wrks Calendar Lookup'[Start of Month], 0)\r\n\r\nEVALUATE\r\n\t__DS0BodyLimited\r\n\r\nORDER BY\r\n\t'Adv_Wrks Calendar Lookup'[Start of Month]",
+                "RowCount": 30
+            }
+        },
+        {
+            "name": "Execute Query",
+            "component": "AS",
+            "start": "2025-12-12T06:54:01.800Z",
+            "end": "2025-12-12T06:54:01.813Z",
+            "id": "2EC2BF5D-78C7-40EE-90D2-04627A9E9467",
+            "parentId": "359e303d-4a56-4f03-827e-505076b18f11"
+        },
+        {
+            "name": "Serialize Rowset",
+            "component": "AS",
+            "start": "2025-12-12T06:54:01.813Z",
+            "end": "2025-12-12T06:54:01.813Z",
+            "id": "C05CC76C-F42A-481B-87B8-1AE2B6BE5CB4",
+            "parentId": "2EC2BF5D-78C7-40EE-90D2-04627A9E9467"
+        },
+        {
+            "name": "Visual Container Lifecycle",
+            "start": "2025-12-12T06:54:01.614Z",
+            "end": "2025-12-12T06:54:01.998Z",
+            "id": "c0c11cd1a2b0ee515adb-ed222e0f0a6bcf35ea79",
+            "metrics": {
+                "status": 1,
+                "visualTitle": "Total Customer By Month",
+                "visualId": "c0c11cd1a2b0ee515adb",
+                "visualType": "kpi",
+                "initialLoad": false
+            }
+        },
+        {
+            "name": "Resolve Parameters",
+            "start": "2025-12-12T06:54:01.615Z",
+            "end": "2025-12-12T06:54:01.627Z",
+            "id": "f0ca9f19-06c3-493e-8626-d4cc7be9f5f4",
+            "parentId": "c0c11cd1a2b0ee515adb-ed222e0f0a6bcf35ea79"
+        },
+        {
+            "name": "Query",
+            "start": "2025-12-12T06:54:01.627Z",
+            "end": "2025-12-12T06:54:01.896Z",
+            "id": "4037693c-4567-46a3-974a-7df72db31b46",
+            "parentId": "c0c11cd1a2b0ee515adb-ed222e0f0a6bcf35ea79"
+        },
+        {
+            "name": "Render",
+            "start": "2025-12-12T06:54:01.896Z",
+            "end": "2025-12-12T06:54:01.998Z",
+            "id": "3741e57c-9344-47dc-b603-e02a3e27ce6c",
+            "parentId": "c0c11cd1a2b0ee515adb-ed222e0f0a6bcf35ea79"
+        },
+        {
+            "name": "Data View Transform",
+            "start": "2025-12-12T06:54:01.949Z",
+            "end": "2025-12-12T06:54:01.950Z",
+            "id": "a9833bb7-9271-46a1-8247-f948f1fddffc",
+            "parentId": "3741e57c-9344-47dc-b603-e02a3e27ce6c"
+        },
+        {
+            "name": "Visual Update Async",
+            "start": "2025-12-12T06:54:01.950Z",
+            "end": "2025-12-12T06:54:01.996Z",
+            "id": "f2981f67-ac42-46ed-ac94-ca335568a316",
+            "parentId": "3741e57c-9344-47dc-b603-e02a3e27ce6c"
+        },
+        {
+            "name": "Visual Update",
+            "start": "2025-12-12T06:54:01.951Z",
+            "end": "2025-12-12T06:54:01.951Z",
+            "id": "b3983f6b-ba8e-4b5e-b65a-2b7ffcc4aee5",
+            "parentId": "3741e57c-9344-47dc-b603-e02a3e27ce6c"
+        },
+        {
+            "name": "Execute Semantic Query",
+            "component": "DSE",
+            "start": "2025-12-12T06:54:01.745Z",
+            "end": "2025-12-12T06:54:01.815Z",
+            "id": "0f779aa0-ba15-4073-800b-eab6393a9b83",
+            "parentId": "4037693c-4567-46a3-974a-7df72db31b46"
+        },
+        {
+            "name": "Query Generation",
+            "start": "2025-12-12T06:54:01.634Z",
+            "end": "2025-12-12T06:54:01.635Z",
+            "id": "4f4693d8-0d24-47bd-90b7-2f90e5f10b50",
+            "parentId": "4037693c-4567-46a3-974a-7df72db31b46"
+        },
+        {
+            "name": "Query Pending",
+            "start": "2025-12-12T06:54:01.738Z",
+            "end": "2025-12-12T06:54:01.740Z",
+            "id": "66075da4-a89b-4e45-9883-4c477b43d03f",
+            "parentId": "4037693c-4567-46a3-974a-7df72db31b46"
+        },
+        {
+            "name": "Parse Query Result",
+            "start": "2025-12-12T06:54:01.895Z",
+            "end": "2025-12-12T06:54:01.896Z",
+            "id": "94b19185-116c-4749-9bfa-e791ac7e844a",
+            "parentId": "4037693c-4567-46a3-974a-7df72db31b46"
+        },
+        {
+            "name": "Execute DAX Query",
+            "component": "DSE",
+            "start": "2025-12-12T06:54:01.770Z",
+            "end": "2025-12-12T06:54:01.814Z",
+            "id": "3a276573-1b21-4033-b437-6b395c027872",
+            "parentId": "0f779aa0-ba15-4073-800b-eab6393a9b83",
+            "metrics": {
+                "QueryText": "DEFINE\r\n\tVAR __DS0Core = \r\n\t\tSUMMARIZECOLUMNS(\r\n\t\t\t'Adv_Wrks Calendar Lookup'[Start of Month],\r\n\t\t\t\"CountPrefix\", CALCULATE(COUNTA('Adv_Wrks_Customer Lookup'[Prefix])),\r\n\t\t\t\"Total_Orders_SalesPerCust\", 'Measure_Table (Sales)'[Total_Orders_SalesPerCust]\r\n\t\t)\r\n\r\n\tVAR __DS0BodyLimited = \r\n\t\tTOPN(1002, __DS0Core, 'Adv_Wrks Calendar Lookup'[Start of Month], 0)\r\n\r\nEVALUATE\r\n\t__DS0BodyLimited\r\n\r\nORDER BY\r\n\t'Adv_Wrks Calendar Lookup'[Start of Month]",
+                "RowCount": 30
+            }
+        },
+        {
+            "name": "Execute Query",
+            "component": "AS",
+            "start": "2025-12-12T06:54:01.800Z",
+            "end": "2025-12-12T06:54:01.813Z",
+            "id": "B060431B-8479-4113-B72D-5FA911944EAC",
+            "parentId": "3a276573-1b21-4033-b437-6b395c027872"
+        },
+        {
+            "name": "Serialize Rowset",
+            "component": "AS",
+            "start": "2025-12-12T06:54:01.813Z",
+            "end": "2025-12-12T06:54:01.813Z",
+            "id": "FC042FF2-4A81-4E11-B4AF-12CEE70E131C",
+            "parentId": "B060431B-8479-4113-B72D-5FA911944EAC"
+        },
+        {
+            "name": "Visual Container Lifecycle",
+            "start": "2025-12-12T06:54:01.615Z",
+            "end": "2025-12-12T06:54:01.998Z",
+            "id": "c95cce6dc70d7b1b55b5-7e266eac91d41d3c8095",
+            "metrics": {
+                "status": 1,
+                "visualTitle": "Total Returns By Month",
+                "visualId": "c95cce6dc70d7b1b55b5",
+                "visualType": "kpi",
+                "initialLoad": false
+            }
+        },
+        {
+            "name": "Resolve Parameters",
+            "start": "2025-12-12T06:54:01.616Z",
+            "end": "2025-12-12T06:54:01.627Z",
+            "id": "a9824ebe-0d6e-43b6-96dc-a63752a46992",
+            "parentId": "c95cce6dc70d7b1b55b5-7e266eac91d41d3c8095"
+        },
+        {
+            "name": "Query",
+            "start": "2025-12-12T06:54:01.627Z",
+            "end": "2025-12-12T06:54:01.894Z",
+            "id": "09fc4a98-51c5-41bb-bb28-58df129e81d0",
+            "parentId": "c95cce6dc70d7b1b55b5-7e266eac91d41d3c8095"
+        },
+        {
+            "name": "Render",
+            "start": "2025-12-12T06:54:01.894Z",
+            "end": "2025-12-12T06:54:01.998Z",
+            "id": "35de37dd-8b49-4c14-a151-39ca1316f968",
+            "parentId": "c95cce6dc70d7b1b55b5-7e266eac91d41d3c8095"
+        },
+        {
+            "name": "Data View Transform",
+            "start": "2025-12-12T06:54:01.951Z",
+            "end": "2025-12-12T06:54:01.953Z",
+            "id": "6569e013-b8d8-41f0-b607-1881da485388",
+            "parentId": "35de37dd-8b49-4c14-a151-39ca1316f968"
+        },
+        {
+            "name": "Visual Update Async",
+            "start": "2025-12-12T06:54:01.953Z",
+            "end": "2025-12-12T06:54:01.996Z",
+            "id": "19ceee3c-a3a0-4f04-9b0c-eaed3560ed95",
+            "parentId": "35de37dd-8b49-4c14-a151-39ca1316f968"
+        },
+        {
+            "name": "Visual Update",
+            "start": "2025-12-12T06:54:01.953Z",
+            "end": "2025-12-12T06:54:01.953Z",
+            "id": "da38e03e-7273-4e73-b964-b7962b39a342",
+            "parentId": "35de37dd-8b49-4c14-a151-39ca1316f968"
+        },
+        {
+            "name": "Execute Semantic Query",
+            "component": "DSE",
+            "start": "2025-12-12T06:54:01.745Z",
+            "end": "2025-12-12T06:54:01.814Z",
+            "id": "7afe6015-b1c7-4b35-9929-39ca7e577097",
+            "parentId": "09fc4a98-51c5-41bb-bb28-58df129e81d0"
+        },
+        {
+            "name": "Query Generation",
+            "start": "2025-12-12T06:54:01.635Z",
+            "end": "2025-12-12T06:54:01.636Z",
+            "id": "33757449-7f02-4f3e-a9b4-e5de771fcc6a",
+            "parentId": "09fc4a98-51c5-41bb-bb28-58df129e81d0"
+        },
+        {
+            "name": "Query Pending",
+            "start": "2025-12-12T06:54:01.738Z",
+            "end": "2025-12-12T06:54:01.740Z",
+            "id": "5cf9824f-a217-456c-93ff-6a59edf3983a",
+            "parentId": "09fc4a98-51c5-41bb-bb28-58df129e81d0"
+        },
+        {
+            "name": "Parse Query Result",
+            "start": "2025-12-12T06:54:01.893Z",
+            "end": "2025-12-12T06:54:01.893Z",
+            "id": "996e19c1-b919-4ad9-af79-49c803673db2",
+            "parentId": "09fc4a98-51c5-41bb-bb28-58df129e81d0"
+        },
+        {
+            "name": "Execute DAX Query",
+            "component": "DSE",
+            "start": "2025-12-12T06:54:01.770Z",
+            "end": "2025-12-12T06:54:01.813Z",
+            "id": "a8c57512-44b6-49d7-b11c-65804999f1f3",
+            "parentId": "7afe6015-b1c7-4b35-9929-39ca7e577097",
+            "metrics": {
+                "QueryText": "DEFINE\r\n\tVAR __DS0Core = \r\n\t\tSUMMARIZECOLUMNS(\r\n\t\t\t'Adv_Wrks Calendar Lookup'[Start of Month],\r\n\t\t\t\"CountPrefix\", CALCULATE(COUNTA('Adv_Wrks_Customer Lookup'[Prefix])),\r\n\t\t\t\"Total_Return_QTY_explict_Return_calc_Measure\", 'Measure_Table (Sales)'[Total Return_QTY_explict_Return_calc_Measure]\r\n\t\t)\r\n\r\n\tVAR __DS0BodyLimited = \r\n\t\tTOPN(1002, __DS0Core, 'Adv_Wrks Calendar Lookup'[Start of Month], 0)\r\n\r\nEVALUATE\r\n\t__DS0BodyLimited\r\n\r\nORDER BY\r\n\t'Adv_Wrks Calendar Lookup'[Start of Month]",
+                "RowCount": 30
+            }
+        },
+        {
+            "name": "Execute Query",
+            "component": "AS",
+            "start": "2025-12-12T06:54:01.800Z",
+            "end": "2025-12-12T06:54:01.813Z",
+            "id": "E316DC84-FE0A-469E-9F2E-94D95CDE4142",
+            "parentId": "a8c57512-44b6-49d7-b11c-65804999f1f3"
+        },
+        {
+            "name": "Serialize Rowset",
+            "component": "AS",
+            "start": "2025-12-12T06:54:01.813Z",
+            "end": "2025-12-12T06:54:01.813Z",
+            "id": "C89E6EC7-2CDF-4028-96C8-08F8EA7D5295",
+            "parentId": "E316DC84-FE0A-469E-9F2E-94D95CDE4142"
+        },
+        {
+            "name": "Visual Container Lifecycle",
+            "start": "2025-12-12T06:54:01.640Z",
+            "end": "2025-12-12T06:54:02.174Z",
+            "id": "7098547212fe4df7025a-145a4ba12df9d07105cb",
+            "metrics": {
+                "status": 1,
+                "visualTitle": "Matrix",
+                "visualId": "7098547212fe4df7025a",
+                "visualType": "pivotTable",
+                "initialLoad": false
+            }
+        },
+        {
+            "name": "Resolve Parameters",
+            "start": "2025-12-12T06:54:01.641Z",
+            "end": "2025-12-12T06:54:01.643Z",
+            "id": "6b9aef3e-3a51-4a29-aa38-7f27c6f9c207",
+            "parentId": "7098547212fe4df7025a-145a4ba12df9d07105cb"
+        },
+        {
+            "name": "Query",
+            "start": "2025-12-12T06:54:01.643Z",
+            "end": "2025-12-12T06:54:01.909Z",
+            "id": "77f14862-033b-4ad6-894e-b172a54c4f2e",
+            "parentId": "7098547212fe4df7025a-145a4ba12df9d07105cb"
+        },
+        {
+            "name": "Render",
+            "start": "2025-12-12T06:54:01.909Z",
+            "end": "2025-12-12T06:54:02.174Z",
+            "id": "42b790ee-6e08-448a-8f2d-c8a5c0300f39",
+            "parentId": "7098547212fe4df7025a-145a4ba12df9d07105cb"
+        },
+        {
+            "name": "Data View Transform",
+            "start": "2025-12-12T06:54:01.944Z",
+            "end": "2025-12-12T06:54:01.947Z",
+            "id": "75d86a95-e1bb-41e5-a59e-90f360ac66d3",
+            "parentId": "42b790ee-6e08-448a-8f2d-c8a5c0300f39"
+        },
+        {
+            "name": "Visual Update Async",
+            "start": "2025-12-12T06:54:01.947Z",
+            "end": "2025-12-12T06:54:02.174Z",
+            "id": "90e2a955-ed59-4384-adad-9f8ea28d7193",
+            "parentId": "42b790ee-6e08-448a-8f2d-c8a5c0300f39"
+        },
+        {
+            "name": "Visual Update",
+            "start": "2025-12-12T06:54:01.947Z",
+            "end": "2025-12-12T06:54:01.947Z",
+            "id": "def80e2c-647c-4213-ad0a-f29910b813f6",
+            "parentId": "42b790ee-6e08-448a-8f2d-c8a5c0300f39"
+        },
+        {
+            "name": "Execute Semantic Query",
+            "component": "DSE",
+            "start": "2025-12-12T06:54:01.750Z",
+            "end": "2025-12-12T06:54:01.817Z",
+            "id": "35162ad2-e3e3-40f8-9664-5c9712cb6a7f",
+            "parentId": "77f14862-033b-4ad6-894e-b172a54c4f2e"
+        },
+        {
+            "name": "Query Generation",
+            "start": "2025-12-12T06:54:01.644Z",
+            "end": "2025-12-12T06:54:01.646Z",
+            "id": "995c92e4-c651-469e-8a58-83ba6b7d33da",
+            "parentId": "77f14862-033b-4ad6-894e-b172a54c4f2e"
+        },
+        {
+            "name": "Query Pending",
+            "start": "2025-12-12T06:54:01.739Z",
+            "end": "2025-12-12T06:54:01.741Z",
+            "id": "632e5fbf-fb57-4d24-a661-9d539877dad5",
+            "parentId": "77f14862-033b-4ad6-894e-b172a54c4f2e"
+        },
+        {
+            "name": "Parse Query Result",
+            "start": "2025-12-12T06:54:01.908Z",
+            "end": "2025-12-12T06:54:01.908Z",
+            "id": "7b4b8799-d949-4b93-94be-6c8d1f21337b",
+            "parentId": "77f14862-033b-4ad6-894e-b172a54c4f2e"
+        },
+        {
+            "name": "Execute DAX Query",
+            "component": "DSE",
+            "start": "2025-12-12T06:54:01.770Z",
+            "end": "2025-12-12T06:54:01.816Z",
+            "id": "df3b303c-a089-42ed-b5b6-fe302e9c1ef3",
+            "parentId": "35162ad2-e3e3-40f8-9664-5c9712cb6a7f",
+            "metrics": {
+                "QueryText": "DEFINE\r\n\tVAR __SQDS0Core = \r\n\t\tSUMMARIZECOLUMNS(\r\n\t\t\t'Adv_Wrks_Product Lookup'[ProductName],\r\n\t\t\t\"Total_Orders_SalesPerCust\", 'Measure_Table (Sales)'[Total_Orders_SalesPerCust]\r\n\t\t)\r\n\r\n\tVAR __SQDS0BodyLimited = \r\n\t\tTOPN(10, __SQDS0Core, [Total_Orders_SalesPerCust], 0)\r\n\r\n\tVAR __DS0Core = \r\n\t\tSUMMARIZECOLUMNS(\r\n\t\t\t'Adv_Wrks_Product Lookup'[ProductName],\r\n\t\t\t__SQDS0BodyLimited,\r\n\t\t\t\"Total_Cost\", 'Measure_Table (Sales)'[Total Cost],\r\n\t\t\t\"Total_Customers\", 'Measure_Table (Sales)'[Total_Customers],\r\n\t\t\t\"Total_Return_QTY_explict_Return_calc_Measure\", 'Measure_Table (Sales)'[Total Return_QTY_explict_Return_calc_Measure]\r\n\t\t)\r\n\r\n\tVAR __DS0PrimaryWindowed = \r\n\t\tTOPN(501, __DS0Core, [Total_Cost], 0, 'Adv_Wrks_Product Lookup'[ProductName], 1)\r\n\r\nEVALUATE\r\n\tGROUPBY(\r\n\t\t__DS0Core,\r\n\t\t\"MinTotal_Customers\", MINX(CURRENTGROUP(), [Total_Customers]),\r\n\t\t\"MaxTotal_Customers\", MAXX(CURRENTGROUP(), [Total_Customers]),\r\n\t\t\"MinTotal_Return_QTY_explict_Return_calc_Measure\", MINX(CURRENTGROUP(), [Total_Return_QTY_explict_Return_calc_Measure]),\r\n\t\t\"MaxTotal_Return_QTY_explict_Return_calc_Measure\", MAXX(CURRENTGROUP(), [Total_Return_QTY_explict_Return_calc_Measure]),\r\n\t\t\"MinTotal_Cost\", MINX(CURRENTGROUP(), [Total_Cost]),\r\n\t\t\"MaxTotal_Cost\", MAXX(CURRENTGROUP(), [Total_Cost])\r\n\t)\r\n\r\nEVALUATE\r\n\t__DS0PrimaryWindowed\r\n\r\nORDER BY\r\n\t[Total_Cost] DESC, 'Adv_Wrks_Product Lookup'[ProductName]",
+                "RowCount": 11
+            }
+        },
+        {
+            "name": "Execute Query",
+            "component": "AS",
+            "start": "2025-12-12T06:54:01.800Z",
+            "end": "2025-12-12T06:54:01.813Z",
+            "id": "60993B68-5DA1-4525-AAAE-AB3EBCC17121",
+            "parentId": "df3b303c-a089-42ed-b5b6-fe302e9c1ef3"
+        },
+        {
+            "name": "Serialize Rowset",
+            "component": "AS",
+            "start": "2025-12-12T06:54:01.813Z",
+            "end": "2025-12-12T06:54:01.813Z",
+            "id": "6BBDF401-B053-4413-A8E0-5670F3CD435B",
+            "parentId": "60993B68-5DA1-4525-AAAE-AB3EBCC17121"
+        }
+    ],
+    "sessionId": "f7569243-88bc-42ad-ad3f-c2cae7b79d92"
+}

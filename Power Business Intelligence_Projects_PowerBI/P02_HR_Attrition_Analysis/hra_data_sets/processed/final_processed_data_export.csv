@@ -1,0 +1,101 @@
+﻿EmployeeID,Gender,Department,Region,Status,Total_Employees,Active_Employee,Left_Employee,Sum of Age,Attrition_Date_Status,Attrition_Rate,Year,Quarter,Month,Day,Year,Quarter,Month,Day,Tenure (Month)
+E1000,Male,Sales,East,Active,1,1,,37,0,,2023,Qtr 1,February,24,,,,,
+E1001,Male,Marketing,North,Active,1,1,,59,0,,2021,Qtr 1,March,30,,,,,
+E1002,Male,Sales,South,Active,1,1,,36,0,,2022,Qtr 3,August,9,,,,,
+E1003,Male,Marketing,South,Active,1,1,,56,0,,2021,Qtr 4,December,24,,,,,
+E1004,Female,Marketing,East,Left,1,,1,22,1,100.0%,2022,Qtr 4,December,22,2023,Qtr 2,June,8,5.6
+E1005,Male,IT,East,Active,1,1,,39,0,,2021,Qtr 4,November,28,,,,,
+E1006,Female,Sales,North,Active,1,1,,46,0,,2021,Qtr 1,February,27,,,,,
+E1007,Female,Marketing,East,Left,1,,1,24,1,100.0%,2021,Qtr 2,April,30,2023,Qtr 3,September,5,28.6
+E1008,Male,IT,North,Active,1,1,,57,0,,2021,Qtr 3,July,20,,,,,
+E1009,Female,Marketing,South,Active,1,1,,26,0,,2022,Qtr 3,August,6,,,,,
+E1010,Male,Finance,North,Left,1,,1,36,1,100.0%,2023,Qtr 1,March,13,2024,Qtr 1,January,16,10.3
+E1011,Female,Finance,West,Active,1,1,,45,0,,2021,Qtr 2,April,7,,,,,
+E1012,Female,HR,East,Active,1,1,,26,0,,2022,Qtr 3,August,4,,,,,
+E1013,Male,Marketing,South,Active,1,1,,32,0,,2022,Qtr 1,March,19,,,,,
+E1014,Female,Marketing,South,Left,1,,1,42,1,100.0%,2023,Qtr 3,September,23,2024,Qtr 4,December,11,14.83333333
+E1015,Male,HR,North,Active,1,1,,42,0,,2020,Qtr 4,October,11,,,,,
+E1016,Male,HR,East,Active,1,1,,35,0,,2023,Qtr 1,January,29,,,,,
+E1017,Female,IT,South,Active,1,1,,38,0,,2023,Qtr 4,November,24,,,,,
+E1018,Female,Marketing,West,Active,1,1,,59,0,,2021,Qtr 1,January,1,,,,,
+E1019,Male,HR,West,Left,1,,1,27,1,100.0%,2022,Qtr 4,October,31,2023,Qtr 1,February,6,3.266666667
+E1020,Male,HR,South,Active,1,1,,49,0,,2024,Qtr 1,March,1,,,,,
+E1021,Female,IT,West,Active,1,1,,55,0,,2023,Qtr 3,July,6,,,,,
+E1022,Male,Sales,East,Active,1,1,,43,0,,2023,Qtr 1,March,27,,,,,
+E1023,Female,HR,West,Left,1,,1,22,1,100.0%,2020,Qtr 2,April,27,2021,Qtr 4,November,12,18.8
+E1024,Female,Marketing,South,Left,1,,1,54,1,100.0%,2020,Qtr 4,December,17,2022,Qtr 1,January,15,13.13333333
+E1025,Female,Marketing,South,Active,1,1,,31,0,,2023,Qtr 2,June,10,,,,,
+E1026,Male,Marketing,North,Active,1,1,,60,0,,2021,Qtr 2,April,1,,,,,
+E1027,Male,Sales,East,Active,1,1,,41,0,,2023,Qtr 3,July,25,,,,,
+E1028,Male,Marketing,North,Left,1,,1,27,1,100.0%,2021,Qtr 1,February,7,2024,Qtr 2,June,14,40.76666667
+E1029,Male,Marketing,South,Active,1,1,,30,0,,2021,Qtr 2,May,11,,,,,
+E1030,Male,Finance,West,Left,1,,1,35,1,100.0%,2021,Qtr 4,November,29,2024,Qtr 2,June,29,31.43333333
+E1031,Male,Finance,West,Active,1,1,,45,0,,2020,Qtr 3,August,2,,,,,
+E1032,Female,Sales,South,Active,1,1,,36,0,,2023,Qtr 4,December,15,,,,,
+E1033,Male,Marketing,South,Active,1,1,,59,0,,2023,Qtr 3,September,18,,,,,
+E1034,Male,Sales,South,Left,1,,1,26,1,100.0%,2022,Qtr 1,January,9,2022,Qtr 2,June,11,5.1
+E1035,Female,Sales,South,Active,1,1,,39,0,,2020,Qtr 3,July,27,,,,,
+E1036,Male,Marketing,South,Active,1,1,,58,0,,2023,Qtr 4,November,11,,,,,
+E1037,Male,IT,West,Active,1,1,,34,0,,2023,Qtr 4,November,26,,,,,
+E1038,Female,Finance,West,Active,1,1,,48,0,,2021,Qtr 4,December,14,,,,,
+E1039,Male,Sales,North,Left,1,,1,47,1,100.0%,2023,Qtr 3,July,17,2024,Qtr 3,August,16,13.2
+E1040,Male,HR,South,Active,1,1,,34,0,,2021,Qtr 2,April,18,,,,,
+E1041,Male,IT,South,Active,1,1,,39,0,,2021,Qtr 1,February,10,,,,,
+E1042,Male,IT,North,Active,1,1,,25,0,,2021,Qtr 4,December,19,,,,,
+E1043,Male,Sales,South,Active,1,1,,32,0,,2020,Qtr 2,May,10,,,,,
+E1044,Female,HR,West,Active,1,1,,25,0,,2022,Qtr 4,December,29,,,,,
+E1045,Male,IT,East,Active,1,1,,51,0,,2020,Qtr 3,July,23,,,,,
+E1046,Female,HR,South,Active,1,1,,40,0,,2023,Qtr 4,November,29,,,,,
+E1047,Male,Marketing,North,Active,1,1,,42,0,,2022,Qtr 4,November,21,,,,,
+E1048,Female,Marketing,South,Left,1,,1,25,1,100.0%,2021,Qtr 4,October,3,2022,Qtr 2,April,10,6.3
+E1049,Male,HR,North,Active,1,1,,60,0,,2021,Qtr 2,May,22,,,,,
+E1050,Male,IT,North,Active,1,1,,58,0,,2020,Qtr 3,August,12,,,,,
+E1051,Male,Marketing,North,Active,1,1,,48,0,,2024,Qtr 1,February,9,,,,,
+E1052,Female,Finance,South,Active,1,1,,42,0,,2023,Qtr 4,October,17,,,,,
+E1053,Female,HR,East,Active,1,1,,51,0,,2021,Qtr 3,September,29,,,,,
+E1054,Male,Sales,West,Left,1,,1,58,1,100.0%,2021,Qtr 4,November,24,2024,Qtr 1,February,17,27.16666667
+E1055,Male,Marketing,South,Active,1,1,,54,0,,2022,Qtr 1,January,13,,,,,
+E1056,Female,Sales,South,Active,1,1,,45,0,,2022,Qtr 1,January,8,,,,,
+E1057,Female,Marketing,East,Active,1,1,,55,0,,2020,Qtr 3,August,17,,,,,
+E1058,Female,Sales,South,Active,1,1,,38,0,,2023,Qtr 2,May,20,,,,,
+E1059,Male,Marketing,South,Active,1,1,,39,0,,2022,Qtr 3,July,4,,,,,
+E1060,Male,Finance,South,Active,1,1,,38,0,,2023,Qtr 1,February,24,,,,,
+E1061,Female,Sales,North,Left,1,,1,49,1,100.0%,2020,Qtr 3,September,30,2024,Qtr 2,April,1,42.63333333
+E1062,Male,Sales,East,Active,1,1,,30,0,,2021,Qtr 2,May,27,,,,,
+E1063,Female,HR,West,Left,1,,1,57,1,100.0%,2021,Qtr 3,July,12,2024,Qtr 1,February,16,31.63333333
+E1064,Male,Sales,North,Active,1,1,,31,0,,2022,Qtr 1,February,7,,,,,
+E1065,Female,Marketing,South,Active,1,1,,49,0,,2021,Qtr 2,April,15,,,,,
+E1066,Female,Finance,North,Active,1,1,,44,0,,2022,Qtr 2,April,2,,,,,
+E1067,Male,Sales,East,Left,1,,1,57,1,100.0%,2020,Qtr 3,July,23,2024,Qtr 2,April,10,45.23333333
+E1068,Female,Marketing,South,Left,1,,1,37,1,100.0%,2020,Qtr 2,May,3,2020,Qtr 3,July,23,2.7
+E1069,Male,IT,North,Left,1,,1,33,1,100.0%,2022,Qtr 2,May,8,2024,Qtr 1,March,5,22.23333333
+E1070,Female,IT,South,Active,1,1,,39,0,,2021,Qtr 2,June,21,,,,,
+E1071,Male,IT,North,Active,1,1,,52,0,,2023,Qtr 4,November,9,,,,,
+E1072,Female,Finance,East,Active,1,1,,36,0,,2023,Qtr 3,July,31,,,,,
+E1073,Male,IT,East,Left,1,,1,39,1,100.0%,2024,Qtr 1,January,28,2025,Qtr 1,March,11,13.6
+E1074,Female,Finance,West,Active,1,1,,56,0,,2022,Qtr 4,December,8,,,,,
+E1075,Male,Sales,East,Active,1,1,,33,0,,2020,Qtr 3,July,15,,,,,
+E1076,Female,Sales,North,Active,1,1,,60,0,,2021,Qtr 3,July,21,,,,,
+E1077,Female,IT,North,Left,1,,1,46,1,100.0%,2023,Qtr 4,December,23,2024,Qtr 4,October,13,9.83333333
+E1078,Male,Finance,North,Active,1,1,,49,0,,2021,Qtr 1,March,26,,,,,
+E1079,Male,Finance,West,Left,1,,1,26,1,100.0%,2022,Qtr 4,October,24,2024,Qtr 2,April,14,17.93333333
+E1080,Female,Marketing,East,Left,1,,1,29,1,100.0%,2021,Qtr 4,October,30,2023,Qtr 1,February,13,15.7
+E1081,Female,Marketing,East,Active,1,1,,48,0,,2021,Qtr 2,May,17,,,,,
+E1082,Female,Marketing,South,Active,1,1,,34,0,,2022,Qtr 3,July,7,,,,,
+E1083,Female,HR,East,Active,1,1,,47,0,,2022,Qtr 1,January,11,,,,,
+E1084,Male,Finance,East,Active,1,1,,35,0,,2021,Qtr 2,June,4,,,,,
+E1085,Female,IT,West,Active,1,1,,50,0,,2024,Qtr 1,January,29,,,,,
+E1086,Female,HR,North,Active,1,1,,40,0,,2023,Qtr 1,February,9,,,,,
+E1087,Female,Sales,South,Active,1,1,,41,0,,2023,Qtr 4,December,16,,,,,
+E1088,Male,HR,North,Active,1,1,,24,0,,2023,Qtr 1,March,18,,,,,
+E1089,Female,Marketing,North,Active,1,1,,51,0,,2021,Qtr 2,April,3,,,,,
+E1090,Male,IT,West,Active,1,1,,47,0,,2023,Qtr 1,January,20,,,,,
+E1091,Male,Sales,West,Active,1,1,,36,0,,2020,Qtr 4,October,6,,,,,
+E1092,Female,Sales,South,Active,1,1,,29,0,,2023,Qtr 3,July,22,,,,,
+E1093,Female,Marketing,East,Active,1,1,,50,0,,2021,Qtr 4,October,23,,,,,
+E1094,Female,Marketing,West,Left,1,,1,32,1,100.0%,2021,Qtr 3,July,9,2022,Qtr 2,May,24,10.63333333
+E1095,Female,IT,East,Left,1,,1,37,1,100.0%,2022,Qtr 1,January,30,2024,Qtr 1,March,14,25.8
+E1096,Female,Marketing,West,Active,1,1,,37,0,,2023,Qtr 4,November,22,,,,,
+E1097,Male,Finance,South,Active,1,1,,39,0,,2021,Qtr 2,May,15,,,,,
+E1098,Male,HR,South,Active,1,1,,36,0,,2022,Qtr 4,November,18,,,,,
+E1099,Male,HR,North,Active,1,1,,48,0,,2023,Qtr 4,December,3,,,,,
