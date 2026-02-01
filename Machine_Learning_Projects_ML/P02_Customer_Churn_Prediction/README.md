@@ -44,6 +44,36 @@ Churn was analyzed across key customer attributes using bar charts and count plo
 - Customers on flexible contracts are more prone to churn.
 - Bundling tech support and offering discounts on long-term contracts may reduce churn.
 - Churn prediction enables marketing to proactively engage high-risk customers.
+
+
+
+## Perform Exploratory Data Analysis in just one line of code
+
+<img width="777" height="193" alt="image" src="https://github.com/user-attachments/assets/11e46551-cf6b-4240-895a-eda916223ab6" />
+
+## Visualization Sample 
+### 1) Visualize Total Customer Churn
+
+<img width="1188" height="506" alt="image" src="https://github.com/user-attachments/assets/7c967c2c-0e82-4441-83fc-7bb76a3931ac" />
+
+### Visualize Churn Rate by Gender
+
+<img width="1101" height="525" alt="image" src="https://github.com/user-attachments/assets/b8d7a222-c4a9-4562-b408-e3fd6d094a34" />
+
+### Visualize Churn Rate by Internet Services
+
+<img width="1189" height="484" alt="image" src="https://github.com/user-attachments/assets/0d5d0c3f-e5ee-4077-9d2d-cddb2f0b7154" />
+
+### Visualize Churn Rate by Payment Method and Contract Durations
+
+<img width="1161" height="490" alt="image" src="https://github.com/user-attachments/assets/0fa9da5c-2552-4407-aeee-a72d2785a938" />
+
+<img width="1179" height="492" alt="image" src="https://github.com/user-attachments/assets/27fc90ba-18a6-4072-abde-ea093c8796b1" />
+
+### Project Folder Structure 
+
+<img width="752" height="758" alt="image" src="https://github.com/user-attachments/assets/dce10818-6353-4984-bd59-4941e040de30" />
+
   
 **6. Conclusion:**
 
