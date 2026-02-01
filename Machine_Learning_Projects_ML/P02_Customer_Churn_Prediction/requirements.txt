@@ -3,4 +3,18 @@ importing libraries
 --  numpy
 --  matplotlib.pyplot
 --  seaborn
+-- ydata_profiling
+-- plotly.offline
+-- plotly.graph_objs
+-- matplotlib inline
+-- ipywidgets
+
+# Machine Learning classification model libraries
+from sklearn.linear_model import LogisticRegression
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.svm import SVC
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.ensemble import RandomForestClassifier
+from sklearn import metrics
+
 
