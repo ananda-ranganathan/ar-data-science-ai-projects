@@ -50,7 +50,8 @@ CustomerID, Gender, Age, Annual Income (k$), Spending Score (1–100).
 
 ## Data Preview:
 
-<img width="717" height="220" alt="image" src="https://github.com/user-attachments/assets/90a263a6-1c82-4059-8ac9-db6a28856c43" />
+<img width="793" height="247" alt="image" src="https://github.com/user-attachments/assets/5a0adcdd-2c99-4382-853e-0f8876376c30" />
+
 
 ### Exploration & Analysis:
 
@@ -61,14 +62,12 @@ CustomerID, Gender, Age, Annual Income (k$), Spending Score (1–100).
 ## 📊 Visual Highlights
 
 ###  Elbow Method to determine optimal clusters
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4f99b550-a649-4bdb-8215-efd05afdb4b5" width="600"/>
-</p>
+
+<img width="1104" height="588" alt="image" src="https://github.com/user-attachments/assets/4cc09e53-3f8b-45c2-9f0d-5684fbd0ba50" />
 
 ###  Final Cluster Visualization
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4c062c2c-0cea-42bf-a494-0c93b401df35" width="600" />
-</p>
+
+<img width="726" height="767" alt="image" src="https://github.com/user-attachments/assets/e4c6a92c-0fb0-4731-8c7e-89dd1ddac960" />
 
 # *Exploratory Data Analysis(EDA):*
 
@@ -113,7 +112,7 @@ K-Means clustering has successfully segmented customers into distinct groups bas
 
 ## 📂 Project Structure
 
-<img width="555" height="704" alt="image" src="https://github.com/user-attachments/assets/75db23cd-da9a-439d-8bd5-5df3468ea21c" />
+<img width="555" height="704" alt="image" src="https://github.com/user-attachments/assets/75db23cd-da9a-439d-8bd5-5df3468ea21c" /> 
 
 ## 📌 Conclusion
  
