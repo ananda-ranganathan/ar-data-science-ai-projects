@@ -62,10 +62,11 @@ This solution supports data-driven retention strategies and decision-making acro
 
 ## 📁 Project Folder Structure
 
-<img width="640" height="172" alt="image" src="https://github.com/user-attachments/assets/bf25939b-beae-4576-9121-54e72dcfe849" />
+<img width="585" height="631" alt="image" src="https://github.com/user-attachments/assets/38013f45-8735-455b-9aa7-37a43c0c9289" />
 
 ## Outcome:
 
-<img width="1918" height="964" alt="image" src="https://github.com/user-attachments/assets/3b54d361-29b9-43e6-9407-afbcb8bf1de2" />
+<img width="1291" height="705" alt="image" src="https://github.com/user-attachments/assets/1b6caea6-8a44-484d-b003-f7c4a717f9ca" />
+
 
 ### End of the Project
