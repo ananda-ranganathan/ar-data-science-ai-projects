@@ -39,16 +39,10 @@ The final Power BI report enables users to interactively explore sales performan
 
 ## 📁 Folder Structure
 
-<img width="580" height="191" alt="image" src="https://github.com/user-attachments/assets/9a2679bd-1ae3-4aba-b0bf-ae606e2ac59a" />
+<img width="527" height="737" alt="image" src="https://github.com/user-attachments/assets/144d039a-8f38-4123-b7ad-171c62fd91a9" />
 
 ## Outcome:
 
-<p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/265e18dd-fab9-43cb-940f-5bb5b2923900" 
-    alt="Power BI Executive Dashboard"
-    width="900"
-  />
-</p>
+<img width="1919" height="799" alt="image" src="https://github.com/user-attachments/assets/a610553d-65e2-4385-b863-e676adde48d7" />
 
 ### End of the Project
