@@ -116,6 +116,6 @@ K-Means clustering has successfully segmented customers into distinct groups bas
 <img width="555" height="704" alt="image" src="https://github.com/user-attachments/assets/75db23cd-da9a-439d-8bd5-5df3468ea21c" />
 
 ## 📌 Conclusion
-
+ 
 This customer segmentation project successfully used unsupervised learning techniques to group customers based on similarity in behavior. The results provide valuable business insights for targeted marketing and strategic decision-making.
 
