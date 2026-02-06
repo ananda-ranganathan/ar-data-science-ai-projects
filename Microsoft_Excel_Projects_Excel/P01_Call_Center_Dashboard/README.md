@@ -48,11 +48,7 @@ This project presents a **Call Center Data Report Dashboard** built to analyze c
 
 ## 📂 Repository Structure
 
-├── Call_Data_Table_Sheet
-├── Icons_Assets_Notes
-├── PIVOT_Call_Calculation
-├── Call Center Dashboard.pbix
-└── README.md
+<img width="460" height="325" alt="image" src="https://github.com/user-attachments/assets/77320337-0980-42e4-8477-f74f4727bbd5" />
 
 ## 🚀 How to Use
 1. Clone the repository.  
